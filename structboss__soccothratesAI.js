@@ -1,0 +1,26 @@
+var structboss__soccothratesAI =
+[
+    [ "boss_soccothratesAI", "structboss__soccothratesAI.html#ac83a2f24f8619b6cffe410e5ce41545a", null ],
+    [ "Aggro", "structboss__soccothratesAI.html#afe3a650f5416638e4fe8675b5cecc71d", null ],
+    [ "EnterEvadeMode", "structboss__soccothratesAI.html#a67fb2f08579a5a70a3ca9701826ab8db", null ],
+    [ "JustDidDialogueStep", "structboss__soccothratesAI.html#ada48292c9e31fbcfc8824821b3751472", null ],
+    [ "JustDied", "structboss__soccothratesAI.html#ad1ff138cb18e446ee7e6681f0c06d33d", null ],
+    [ "JustSummoned", "structboss__soccothratesAI.html#a2973a56a7c308c043e56c890c9dcfd9f", null ],
+    [ "KilledUnit", "structboss__soccothratesAI.html#a2b382c444356c21853863dced2fd7e3c", null ],
+    [ "MoveInLineOfSight", "structboss__soccothratesAI.html#a3008c0e19576e68bc590c4d7a8a69aa7", null ],
+    [ "MovementInform", "structboss__soccothratesAI.html#aed0d9a6d7857200c88422782b1f83772", null ],
+    [ "Reset", "structboss__soccothratesAI.html#aee40dd33cfccdc1e1a95e3ae97fb50ca", null ],
+    [ "SpellHitTarget", "structboss__soccothratesAI.html#a330311eeff1b95e73475c1f328b90683", null ],
+    [ "UpdateAI", "structboss__soccothratesAI.html#ad0571cf6717a56e35e671b3158e03219", null ],
+    [ "m_bHasYelledIntro", "structboss__soccothratesAI.html#ab0ab840b87b77c095456ac1cba39f9da", null ],
+    [ "m_bIsRegularMode", "structboss__soccothratesAI.html#a7cc5821de718dbfb3a725da3de531cc3", null ],
+    [ "m_lineUpCounter", "structboss__soccothratesAI.html#a49be8f4c7d47b05d4c4f9c29b9511b5b", null ],
+    [ "m_pInstance", "structboss__soccothratesAI.html#a5fd21dde5bdd049f9b2548947ee8a0e9", null ],
+    [ "m_uiChargeTimer", "structboss__soccothratesAI.html#a15430cc9e098abeadc82a7e3c4ffd7bc", null ],
+    [ "m_uiFelfireLineupTimer", "structboss__soccothratesAI.html#adfb7f936fa712e2062c937e1d11efdbc", null ],
+    [ "m_uiFelfireShockTimer", "structboss__soccothratesAI.html#ae36669695b84dd92552daf2e7e4d3f12", null ],
+    [ "m_uiKnockAwayTimer", "structboss__soccothratesAI.html#aff159e5b4a32fb321c996c60d816b305", null ],
+    [ "m_x", "structboss__soccothratesAI.html#a58bd6983406a64cdcde9fe047ab4a0c9", null ],
+    [ "m_y", "structboss__soccothratesAI.html#a7444acf6a9ebae8f3440d63755454614", null ],
+    [ "m_z", "structboss__soccothratesAI.html#a1001276252ed496fd64eb76cd2d87d6f", null ]
+];

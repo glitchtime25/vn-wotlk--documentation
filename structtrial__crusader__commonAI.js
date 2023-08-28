@@ -1,0 +1,26 @@
+var structtrial__crusader__commonAI =
+[
+    [ "trial_crusader_commonAI", "structtrial__crusader__commonAI.html#a4adef289741478f7ddcbe220d57bb2e1", null ],
+    [ "Aggro", "structtrial__crusader__commonAI.html#a4ff1c86edf29f82642d384eb9d360aab", null ],
+    [ "CanUseSpecialAbility", "structtrial__crusader__commonAI.html#a3630aeddfd0f2326bc648c0ec0680893", null ],
+    [ "DamageTaken", "structtrial__crusader__commonAI.html#a1d0830d626f1542b8066846e2a0cf9a8", null ],
+    [ "HealedBy", "structtrial__crusader__commonAI.html#aba45d65abe979f395f5133cc0a22edaf", null ],
+    [ "JustDied", "structtrial__crusader__commonAI.html#a046581dc05270619de02cafb65af7823", null ],
+    [ "JustReachedHome", "structtrial__crusader__commonAI.html#a1b4f59481fb2076288347d5b04893e12", null ],
+    [ "KilledUnit", "structtrial__crusader__commonAI.html#aa1bb4d6f8b22ffd9d65382078a7499a4", null ],
+    [ "MoveInLineOfSight", "structtrial__crusader__commonAI.html#ad096f5114a8ffc2c19ed67949f22ad37", null ],
+    [ "Reset", "structtrial__crusader__commonAI.html#ac9474cd87392c03bcf14e42008ce6ab1", null ],
+    [ "UpdateAI", "structtrial__crusader__commonAI.html#a1e554944e39d34aa908571dc6c8ccda7", null ],
+    [ "UpdateCrusaderAI", "structtrial__crusader__commonAI.html#a104ccb807ec72a007d69dcf5eea27f3b", null ],
+    [ "m_pAbilityArray", "structtrial__crusader__commonAI.html#a4f93a6648ba86f3c812897e67b385a66", null ],
+    [ "m_pInstance", "structtrial__crusader__commonAI.html#aaee11bc6080dc99abb056efad8144e4f", null ],
+    [ "m_uiAbilityTimer", "structtrial__crusader__commonAI.html#ac78ead4ce827004f2b77c906e0cc70e2", null ],
+    [ "m_uiAIType", "structtrial__crusader__commonAI.html#aba7264b7c19f97e7fadc787cc7ddb17a", null ],
+    [ "m_uiIsCCTimer", "structtrial__crusader__commonAI.html#a75400984c9843275b3bb64e70165e70b", null ],
+    [ "m_uiMaxAbilities", "structtrial__crusader__commonAI.html#a1a8f6a205be9553e9bfeebec34db6e3a", null ],
+    [ "m_uiResetThreatTimer", "structtrial__crusader__commonAI.html#a5a31c4e16a875e0e7df2b7c030b165f6", null ],
+    [ "m_uiSpellTimer", "structtrial__crusader__commonAI.html#a55058d462fb65162e969a87dd0cf19c3", null ],
+    [ "m_uiThrowAIEventStep", "structtrial__crusader__commonAI.html#a86c0f5706bf6e82377ca8271c64d5074", null ],
+    [ "m_uiTrinketCooldownTimer", "structtrial__crusader__commonAI.html#a241ac9a692acb5d0500a67f459bf078e", null ],
+    [ "m_uiTrinketTimer", "structtrial__crusader__commonAI.html#ad9527ca6ad469d49cd567874af5ef31a", null ]
+];

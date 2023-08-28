@@ -1,0 +1,26 @@
+var structboss__general__vezaxAI =
+[
+    [ "boss_general_vezaxAI", "structboss__general__vezaxAI.html#a8b95e553aa3597997cfd2b17875f262f", null ],
+    [ "Aggro", "structboss__general__vezaxAI.html#a12bf4f8ea2c327df345261d474b3150c", null ],
+    [ "DoPrepareAnimusIfCan", "structboss__general__vezaxAI.html#a00bb2474d3db13f3bd7eb057fd6a51ba", null ],
+    [ "JustDied", "structboss__general__vezaxAI.html#a55334ee8076e71325c87ea036e3106dd", null ],
+    [ "JustReachedHome", "structboss__general__vezaxAI.html#a7c3d2ddf33061c8a19a8b34782306629", null ],
+    [ "JustSummoned", "structboss__general__vezaxAI.html#a09b9e79ae168e25bfbf046863dab4db1", null ],
+    [ "KilledUnit", "structboss__general__vezaxAI.html#a9876774afb239ae38cd592ba24066961", null ],
+    [ "ReceiveAIEvent", "structboss__general__vezaxAI.html#af5afad68778b8f4b9521d8492d22a31f", null ],
+    [ "Reset", "structboss__general__vezaxAI.html#a259c570e39405ae780c699062a456512", null ],
+    [ "SpellHitTarget", "structboss__general__vezaxAI.html#a3f27c09b5cdc6d2ece52055e27a8b41d", null ],
+    [ "UpdateAI", "structboss__general__vezaxAI.html#a90ce5511fec9a19883b3352e1a02d7ec", null ],
+    [ "m_bIsRegularMode", "structboss__general__vezaxAI.html#ada915641162fc5a402fb999e2234a404", null ],
+    [ "m_lVaporsGuids", "structboss__general__vezaxAI.html#a14ef3b2082d92067c6939cfce2351d75", null ],
+    [ "m_pInstance", "structboss__general__vezaxAI.html#a529e9edb9dd0c5c013b89c0d56980a9d", null ],
+    [ "m_uiCrashTimer", "structboss__general__vezaxAI.html#a3b8b4cd4c67daaf17f7c11a942bfe7f8", null ],
+    [ "m_uiEnrageTimer", "structboss__general__vezaxAI.html#a9047f9c54b92be96283a3d9023eeeee7", null ],
+    [ "m_uiFlamesTimer", "structboss__general__vezaxAI.html#a930142c9890b460b9c2fc2564d62a117", null ],
+    [ "m_uiHardModeStage", "structboss__general__vezaxAI.html#a008ad529030d731339b1c916a5fb78e4", null ],
+    [ "m_uiHardModeTimer", "structboss__general__vezaxAI.html#a49d47baa475d91037dd3ff4f88907a40", null ],
+    [ "m_uiMarkTimer", "structboss__general__vezaxAI.html#a93f103c322173a2cc9b4de8ed14d944c", null ],
+    [ "m_uiSaroniteVaporTimer", "structboss__general__vezaxAI.html#a19e739008ea3663f08a9ccddb248af7a", null ],
+    [ "m_uiSurgeTimer", "structboss__general__vezaxAI.html#a25e249eb61c41e5a3b55a3d917a906b3", null ],
+    [ "m_uiVaporsGathered", "structboss__general__vezaxAI.html#a66b942548cc636ddb1187f9f89b3392a", null ]
+];

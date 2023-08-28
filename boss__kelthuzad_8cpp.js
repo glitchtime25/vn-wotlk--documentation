@@ -1,0 +1,47 @@
+var boss__kelthuzad_8cpp =
+[
+    [ "boss_kelthuzadAI", "structboss__kelthuzadAI.html", "structboss__kelthuzadAI" ],
+    [ "TriggerKTAdd", "structTriggerKTAdd.html", "structTriggerKTAdd" ],
+    [ "ChainsKelThuzad", "structChainsKelThuzad.html", "structChainsKelThuzad" ],
+    [ "FrostBlast", "structFrostBlast.html", "structFrostBlast" ],
+    [ "KelThuzadActions", "boss__kelthuzad_8cpp.html#af88180a3db6b115aa99851e030746bb0", [
+      [ "KELTHUZAD_PHASE_GUARDIANS", "boss__kelthuzad_8cpp.html#af88180a3db6b115aa99851e030746bb0a84b0be7b1baf7f090be0df83558f4850", null ],
+      [ "KELTHUZAD_ACTIONS_MAX", "boss__kelthuzad_8cpp.html#af88180a3db6b115aa99851e030746bb0a24b30f73bb7f390fbfd2636ff2923b57", null ],
+      [ "KELTHUZAD_LICH_KING_ANSWER", "boss__kelthuzad_8cpp.html#af88180a3db6b115aa99851e030746bb0aa2042dce2db23d2d9356201022643c26", null ]
+    ] ],
+    [ "Phase", "boss__kelthuzad_8cpp.html#ae1c5184dc404edf057ed537bcfddef84", [
+      [ "PHASE_ONE", "boss__professor__putricide_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a010c34255c53692507f4cf089853cd05", null ],
+      [ "PHASE_RUNNING_ONE", "boss__professor__putricide_8cpp.html#ae1c5184dc404edf057ed537bcfddef84aff9cfb7b38c47250ce36e91b7348dc0d", null ],
+      [ "PHASE_TRANSITION_ONE", "boss__professor__putricide_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a65315e255c84e99d5696052256b9620f", null ],
+      [ "PHASE_TWO", "boss__professor__putricide_8cpp.html#ae1c5184dc404edf057ed537bcfddef84ad306b605b01d26aee45d81b8a241cb65", null ],
+      [ "PHASE_RUNNING_TWO", "boss__professor__putricide_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a012534701c11287a09deaae192f91f1d", null ],
+      [ "PHASE_TRANSITION_TWO", "boss__professor__putricide_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a7a638cc76989cf84c6c0e59e7472e892", null ],
+      [ "PHASE_THREE", "boss__professor__putricide_8cpp.html#ae1c5184dc404edf057ed537bcfddef84ab240c367c5e45c91ba387ac010e238bf", null ],
+      [ "PHASE_INTRO", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a4759cf00b99e3a6f4a2f65af817bd203", null ],
+      [ "PHASE_ONE", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a010c34255c53692507f4cf089853cd05", null ],
+      [ "PHASE_RUNNING_WINTER_ONE", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a73d88d8d6f42bd6195a2b1625053756d", null ],
+      [ "PHASE_TRANSITION_ONE", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a65315e255c84e99d5696052256b9620f", null ],
+      [ "PHASE_QUAKE_ONE", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84afebb7da12e9ecfcbc40ea6aa3e9270a7", null ],
+      [ "PHASE_TWO", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84ad306b605b01d26aee45d81b8a241cb65", null ],
+      [ "PHASE_RUNNING_WINTER_TWO", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a3a7bb18e086e3af79541604b6eac000a", null ],
+      [ "PHASE_TRANSITION_TWO", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a7a638cc76989cf84c6c0e59e7472e892", null ],
+      [ "PHASE_QUAKE_TWO", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a1e7fb06f8003318e8acf330bb33debd3", null ],
+      [ "PHASE_THREE", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84ab240c367c5e45c91ba387ac010e238bf", null ],
+      [ "PHASE_IN_FROSTMOURNE", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84ac04fd8749c976e7d80c7769f5b26dcdd", null ],
+      [ "PHASE_CUTSCENE", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a1f11a58a0a80a267fed6d314b0adb4a3", null ],
+      [ "PHASE_DEATH_AWAITS", "boss__the__lich__king_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a45617e469823b9ffbc72a8da4f9a90d3", null ],
+      [ "PHASE_INTRO", "boss__kelthuzad_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a4759cf00b99e3a6f4a2f65af817bd203", null ],
+      [ "PHASE_NORMAL", "boss__kelthuzad_8cpp.html#ae1c5184dc404edf057ed537bcfddef84aac28c2a834c630f24ae2654b4ea97ed1", null ],
+      [ "PHASE_GUARDIANS", "boss__kelthuzad_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a71d193042cf6c523e47b7ea26acf4374", null ]
+    ] ],
+    [ "AddSC_boss_kelthuzad", "boss__kelthuzad_8cpp.html#a508bf5731dbff3767dbae97c2fecb87e", null ],
+    [ "centerRoomKT", "boss__kelthuzad_8cpp.html#a15790b8180626f496c0a6f49078b8a95", null ],
+    [ "M_F_ANGLE", "boss__kelthuzad_8cpp.html#a1512b8188bcd6aa8e298ecb23822cc2b", null ],
+    [ "M_F_HEIGHT", "boss__kelthuzad_8cpp.html#ae4100a0b0433a149417fdc6b832b828e", null ],
+    [ "M_F_RANGE", "boss__kelthuzad_8cpp.html#aa37c2f559d0fbd88805f795cc0a00dbb", null ],
+    [ "phaseOneAdds", "boss__kelthuzad_8cpp.html#a49fcbd4fcf066c7ff65500c6dbd5561d", null ],
+    [ "soldierFrozenWasteSpellsTimers", "boss__kelthuzad_8cpp.html#a6a98a33b6a2a5cb44a9ef9dd5da0c7f6", null ],
+    [ "soulWeaverSpellsTimers", "boss__kelthuzad_8cpp.html#a784cb24eb5762036086c6505b24653d3", null ],
+    [ "summoningSpells", "boss__kelthuzad_8cpp.html#a7ba7bc1ad6ab67973e745dd932491c51", null ],
+    [ "unstoppableAbominationSpellsTimers", "boss__kelthuzad_8cpp.html#a6f2305edc6a1e040ed96038a96123ffd", null ]
+];

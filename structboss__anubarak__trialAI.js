@@ -1,0 +1,25 @@
+var structboss__anubarak__trialAI =
+[
+    [ "boss_anubarak_trialAI", "structboss__anubarak__trialAI.html#a6402a08df66fc693fb1a6f1217413058", null ],
+    [ "Aggro", "structboss__anubarak__trialAI.html#a13c8bf45881dadc58b16f8247e3438d1", null ],
+    [ "DoDespawnPursuingSpikes", "structboss__anubarak__trialAI.html#ad589454f924bf8eaea2cec855c004e62", null ],
+    [ "DoRefreshSpheres", "structboss__anubarak__trialAI.html#a2faaa7e294e22cad6b58ce53e30ac0e4", null ],
+    [ "JustDied", "structboss__anubarak__trialAI.html#ab0a04a228fe25ece29ba7ea5aa78c10b", null ],
+    [ "JustReachedHome", "structboss__anubarak__trialAI.html#a1fc847d092a22cb3a9c67919f609598e", null ],
+    [ "JustSummoned", "structboss__anubarak__trialAI.html#ae4605640fa1c82dfc0162b811d2f5891", null ],
+    [ "KilledUnit", "structboss__anubarak__trialAI.html#a542f7020bc25702d6575597b0500446c", null ],
+    [ "MoveInLineOfSight", "structboss__anubarak__trialAI.html#a6f6fc63a6e86f2994c0b4a093776392b", null ],
+    [ "Reset", "structboss__anubarak__trialAI.html#a2e90ad76ddbb90741d9b11da4ed094c9", null ],
+    [ "SpellHit", "structboss__anubarak__trialAI.html#a3a941e906bdc1cf469a814bebaa53a7a", null ],
+    [ "UpdateAI", "structboss__anubarak__trialAI.html#a9a71cb013af20ce9fe371b6c1e663135", null ],
+    [ "m_bDidIntroYell", "structboss__anubarak__trialAI.html#ae719b209b6802eee15e264d57fc8f949", null ],
+    [ "m_Phase", "structboss__anubarak__trialAI.html#a78d588a1c9227126ff61415e21cac604", null ],
+    [ "m_PhaseSwitchTimer", "structboss__anubarak__trialAI.html#a4ba1abc388b87179bb75d920a6beffdc", null ],
+    [ "m_pInstance", "structboss__anubarak__trialAI.html#aee58ce5a26ea39cc0f9de3237a165c21", null ],
+    [ "m_PursuingSpikesGuid", "structboss__anubarak__trialAI.html#a68937fa72a94ed25ae16dc33096ec2da", null ],
+    [ "m_uiBerserkTimer", "structboss__anubarak__trialAI.html#ad64f7e516e7bb6fb45643b202d0640bf", null ],
+    [ "m_uiBurrowerSummonTimer", "structboss__anubarak__trialAI.html#a10a59023017e3331caf27cd60b85f455", null ],
+    [ "m_uiFreezingSlashTimer", "structboss__anubarak__trialAI.html#afecd111a0c3a8f4646a9bd1110fd4787", null ],
+    [ "m_uiPenetratingColdTimer", "structboss__anubarak__trialAI.html#a9d3bb583fd7ba4a96ef75bd1ee619107", null ],
+    [ "m_vSpheresGuidVector", "structboss__anubarak__trialAI.html#a92bde5200395abe2b3995680ebf85cf9", null ]
+];

@@ -1,0 +1,25 @@
+var structboss__vx001AI =
+[
+    [ "boss_vx001AI", "structboss__vx001AI.html#a2d1dbddde9e01645a2dc114edc0ad74e", null ],
+    [ "Aggro", "structboss__vx001AI.html#a13adc4cce9b9ac8f51dfa5d31052f68a", null ],
+    [ "DamageTaken", "structboss__vx001AI.html#a2332cad69a4c378996767af11e510498", null ],
+    [ "EnterEvadeMode", "structboss__vx001AI.html#ad72ef831250e9af92625522e587d4710", null ],
+    [ "JustSummoned", "structboss__vx001AI.html#a057980c89ffdc26b2938d20b7fb87fc6", null ],
+    [ "KilledUnit", "structboss__vx001AI.html#ab176fb986ea90ca9d248abf0da485407", null ],
+    [ "ReceiveAIEvent", "structboss__vx001AI.html#a469f46302ea0218f29361df2faf9a56f", null ],
+    [ "Reset", "structboss__vx001AI.html#a35453a76f5f205b6a0a38153903d13b1", null ],
+    [ "SelectCustomHostileTarget", "structboss__vx001AI.html#a4979e81b6b2265e92f15d9b77bee8319", null ],
+    [ "SpellHit", "structboss__vx001AI.html#a272a3b55402ae4eeff3cfdad4864dfe2", null ],
+    [ "UpdateAI", "structboss__vx001AI.html#aab48272b507c55894999f89a66e364d7", null ],
+    [ "m_bIsRegularMode", "structboss__vx001AI.html#af33b3d988de8dae98a110711412425de", null ],
+    [ "m_pInstance", "structboss__vx001AI.html#ac91371368973f14501385ba9f19e6f9c", null ],
+    [ "m_uiBurstEndTimer", "structboss__vx001AI.html#a64f04a1d799054031bf13f0e58d55408", null ],
+    [ "m_uiFlameSuppressTimer", "structboss__vx001AI.html#aaead435493a439e6cfb70d2f04870f01", null ],
+    [ "m_uiFrostBombTimer", "structboss__vx001AI.html#a9d34270354d260c819150890770c8edb", null ],
+    [ "m_uiHandPulseTimer", "structboss__vx001AI.html#ab152ff705c87333ad4e4e0ac0575950b", null ],
+    [ "m_uiLaserEndTimer", "structboss__vx001AI.html#af9b9c7d12fb75f66c4e877c54a9385f7", null ],
+    [ "m_uiPhase", "structboss__vx001AI.html#a32b30d7d0b4127b2980d96ff02e6513f", null ],
+    [ "m_uiRapidBurstTimer", "structboss__vx001AI.html#a9e2fdd44388fe41f1d59481ee3d088ff", null ],
+    [ "m_uiRocketStrikeTimer", "structboss__vx001AI.html#a56fc7be39bb6ad80145c38b4c5edb729", null ],
+    [ "m_uLaserBarrageTimer", "structboss__vx001AI.html#a23da7fcc7cddbbb3e6937d63c44b24c5", null ]
+];

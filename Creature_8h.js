@@ -1,0 +1,116 @@
+var Creature_8h =
+[
+    [ "CreatureInfo", "structCreatureInfo.html", "structCreatureInfo" ],
+    [ "CreatureCooldowns", "structCreatureCooldowns.html", "structCreatureCooldowns" ],
+    [ "EquipmentInfo", "structEquipmentInfo.html", "structEquipmentInfo" ],
+    [ "CreatureSpawnTemplate", "structCreatureSpawnTemplate.html", "structCreatureSpawnTemplate" ],
+    [ "CreatureData", "structCreatureData.html", "structCreatureData" ],
+    [ "CreatureDataAddon", "structCreatureDataAddon.html", "structCreatureDataAddon" ],
+    [ "CreatureClassLvlStats", "structCreatureClassLvlStats.html", "structCreatureClassLvlStats" ],
+    [ "CreatureModelInfo", "structCreatureModelInfo.html", "structCreatureModelInfo" ],
+    [ "CreatureModelRace", "structCreatureModelRace.html", "structCreatureModelRace" ],
+    [ "CreatureConditionalSpawn", "structCreatureConditionalSpawn.html", "structCreatureConditionalSpawn" ],
+    [ "CreatureLocale", "structCreatureLocale.html", "structCreatureLocale" ],
+    [ "GossipMenuItemsLocale", "structGossipMenuItemsLocale.html", "structGossipMenuItemsLocale" ],
+    [ "PointOfInterestLocale", "structPointOfInterestLocale.html", "structPointOfInterestLocale" ],
+    [ "VendorItem", "structVendorItem.html", "structVendorItem" ],
+    [ "VendorItemData", "structVendorItemData.html", "structVendorItemData" ],
+    [ "VendorItemCount", "structVendorItemCount.html", "structVendorItemCount" ],
+    [ "TrainerSpell", "structTrainerSpell.html", "structTrainerSpell" ],
+    [ "TrainerSpellData", "structTrainerSpellData.html", "structTrainerSpellData" ],
+    [ "CreatureCreatePos", "structCreatureCreatePos.html", "structCreatureCreatePos" ],
+    [ "Creature", "classCreature.html", "classCreature" ],
+    [ "ForcedDespawnDelayEvent", "classForcedDespawnDelayEvent.html", "classForcedDespawnDelayEvent" ],
+    [ "CREATURE_Z_ATTACK_RANGE_MELEE", "Creature_8h.html#a6391d081bc6e0a1f572cc978a0281fe7", null ],
+    [ "CREATURE_Z_ATTACK_RANGE_RANGED", "Creature_8h.html#a91242d0df9563505687d204a8f490a87", null ],
+    [ "MAX_CREATURE_MODEL", "Creature_8h.html#aedb9af27fc549b3c68e6673cb7f7c491", null ],
+    [ "MAX_KILL_CREDIT", "Creature_8h.html#a3f331d9e202385f679104cc20ef74c3d", null ],
+    [ "MAX_VENDOR_ITEMS", "Creature_8h.html#a44c3a813b92331e325ba5aae11ed72a3", null ],
+    [ "MAX_VIRTUAL_ITEM_SLOT", "Creature_8h.html#a8f7d803e051a8bcb43a44f16b01f9c09", null ],
+    [ "MINIMUM_LOOTING_TIME", "Creature_8h.html#a1cf90dfd6a78f8750e5be032695a8a5d", null ],
+    [ "USE_DEFAULT_DATABASE_LEVEL", "Creature_8h.html#af359b23a6535a86f691a1f9490ddbf0d", null ],
+    [ "TrainerSpellMap", "Creature_8h.html#a3d450c723bebb36adbc8668dd0d65a51", null ],
+    [ "VendorItemCounts", "Creature_8h.html#a545edaa9fa6e5172e0acaa6f686d8a6c", null ],
+    [ "VendorItemList", "Creature_8h.html#ade72c22c956598b6544cf254bdf9e975", null ],
+    [ "ChatType", "Creature_8h.html#ab474065b922c4091606228d4c785b15e", [
+      [ "CHAT_TYPE_SAY", "Creature_8h.html#ab474065b922c4091606228d4c785b15ea259d4bad6e08f092ee9af5a87de80961", null ],
+      [ "CHAT_TYPE_YELL", "Creature_8h.html#ab474065b922c4091606228d4c785b15eadc5980413f923977ff9f66e4966b005c", null ],
+      [ "CHAT_TYPE_TEXT_EMOTE", "Creature_8h.html#ab474065b922c4091606228d4c785b15ea45c06648182a8ec2320d052aef7893b9", null ],
+      [ "CHAT_TYPE_BOSS_EMOTE", "Creature_8h.html#ab474065b922c4091606228d4c785b15ea983164442279412488cf59d326d2c81d", null ],
+      [ "CHAT_TYPE_WHISPER", "Creature_8h.html#ab474065b922c4091606228d4c785b15eac9530b47feeb0908379b96ae42b417c7", null ],
+      [ "CHAT_TYPE_BOSS_WHISPER", "Creature_8h.html#ab474065b922c4091606228d4c785b15ea42bf788b7a507b711a9fe07b4c24bcc7", null ],
+      [ "CHAT_TYPE_ZONE_YELL", "Creature_8h.html#ab474065b922c4091606228d4c785b15eac4409452bcef503c226a3480f043a82b", null ],
+      [ "CHAT_TYPE_ZONE_EMOTE", "Creature_8h.html#ab474065b922c4091606228d4c785b15ea26791fe76f7957f7bb954ee7e8f92117", null ],
+      [ "CHAT_TYPE_PARTY", "Creature_8h.html#ab474065b922c4091606228d4c785b15ead7fe0db315b2c96dc65f748cd14a2ac2", null ],
+      [ "CHAT_TYPE_MAX", "Creature_8h.html#ab474065b922c4091606228d4c785b15eaf01ae37f1380b5526ce67ea941778189", null ]
+    ] ],
+    [ "CreatureFlagsExtra", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5", [
+      [ "CREATURE_EXTRA_FLAG_INSTANCE_BIND", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5add5b1790655bb66b9e00771e9cfde39d", null ],
+      [ "CREATURE_EXTRA_FLAG_NO_AGGRO_ON_SIGHT", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a3919e35245b597b81b395838fdb2c762", null ],
+      [ "CREATURE_EXTRA_FLAG_NO_PARRY", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5ad5b9d89b186afd14171a2acfaef60301", null ],
+      [ "CREATURE_EXTRA_FLAG_NO_PARRY_HASTEN", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a70bb40219ad579f6232b49e7663384b2", null ],
+      [ "CREATURE_EXTRA_FLAG_NO_BLOCK", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5afc54ae3c2fbc71b40bb64319c8156864", null ],
+      [ "CREATURE_EXTRA_FLAG_UNUSED", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5ab48c9c59a2e676bb4b15fe6453758978", null ],
+      [ "CREATURE_EXTRA_FLAG_UNUSED2", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a5b4c85ec0b44e88e0bfaac38733e0e74", null ],
+      [ "CREATURE_EXTRA_FLAG_INVISIBLE", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a776cc7c363e63cc769746681e071b875", null ],
+      [ "CREATURE_EXTRA_FLAG_UNUSED3", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a1e3e1a261ca777417884e7e9290168d3", null ],
+      [ "CREATURE_EXTRA_FLAG_AGGRO_ZONE", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a0152e66a7a613141a0d3532905467479", null ],
+      [ "CREATURE_EXTRA_FLAG_GUARD", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a8ad9cf6e89de8610a5e0601179a07f7a", null ],
+      [ "CREATURE_EXTRA_FLAG_NO_CALL_ASSIST", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5ace19be5a38aaf711f10d643d54b84a2d", null ],
+      [ "CREATURE_EXTRA_FLAG_ACTIVE", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a010ad3fb6e58b2e92eb32e227d24a326", null ],
+      [ "CREATURE_EXTRA_FLAG_MMAP_FORCE_ENABLE", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5ae74520bfc768d9b59abb9971a0728b20", null ],
+      [ "CREATURE_EXTRA_FLAG_MMAP_FORCE_DISABLE", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a4713a2537aaeb70b5fb43d982a161f8b", null ],
+      [ "CREATURE_EXTRA_FLAG_WALK_IN_WATER", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a9792265082fd60c7e7c1e7f1e3a8332b", null ],
+      [ "CREATURE_EXTRA_FLAG_CIVILIAN", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5aa2b84e4e5ddb294cf9c4e4afebfd2e9b", null ],
+      [ "CREATURE_EXTRA_FLAG_NO_MELEE", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a87a8c9056be3a287455bcc6f66f1b92b", null ],
+      [ "CREATURE_EXTRA_FLAG_FORCE_ATTACKING_CAPABILITY", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a9bc0ab452081c60b633397ee5de2db26", null ],
+      [ "CREATURE_EXTRA_FLAG_DYNGUID", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5ac31ca7fee908764c8e69374ed7e4cdd0", null ],
+      [ "CREATURE_EXTRA_FLAG_COUNT_SPAWNS", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a667e5ad2ffdd079fc08320403815d7fd", null ],
+      [ "CREATURE_EXTRA_FLAG_UNUSED4", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a4622a45ae6c2f9921d2d616134ac739e", null ],
+      [ "CREATURE_EXTRA_FLAG_DUAL_WIELD_FORCED", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a7e3d5ee742751c5203376868615bd392", null ],
+      [ "CREATURE_EXTRA_FLAG_UNUSED5", "Creature_8h.html#a509c490881d9ef2abce208236910f0a5a1297091b215ea8e5b998ff7348d19eb2", null ]
+    ] ],
+    [ "CreatureSubtype", "Creature_8h.html#a0adc01a263d6c377feabd69772dd957a", [
+      [ "CREATURE_SUBTYPE_GENERIC", "Creature_8h.html#a0adc01a263d6c377feabd69772dd957aae239f8d3bf9c8a04a7634480dcfc706a", null ],
+      [ "CREATURE_SUBTYPE_PET", "Creature_8h.html#a0adc01a263d6c377feabd69772dd957aa9ec8abad4095c21592d208efdc4a866a", null ],
+      [ "CREATURE_SUBTYPE_TOTEM", "Creature_8h.html#a0adc01a263d6c377feabd69772dd957aa11abf3812d92f6281b35613d0973b328", null ],
+      [ "CREATURE_SUBTYPE_TEMPORARY_SUMMON", "Creature_8h.html#a0adc01a263d6c377feabd69772dd957aae767d4fabc9c275da21d4d819b98e358", null ]
+    ] ],
+    [ "InhabitTypeValues", "Creature_8h.html#aec385f62258c23b8c755b8e78a0e1873", [
+      [ "INHABIT_GROUND", "Creature_8h.html#aec385f62258c23b8c755b8e78a0e1873a520d2ee7572e47cd40d4a81ec015a38b", null ],
+      [ "INHABIT_WATER", "Creature_8h.html#aec385f62258c23b8c755b8e78a0e1873a3e409a2141cd78fb1bdd83d36c2388e7", null ],
+      [ "INHABIT_AIR", "Creature_8h.html#aec385f62258c23b8c755b8e78a0e1873a2e939d2dbf075bfb7c86e3e971beb228", null ],
+      [ "INHABIT_ANYWHERE", "Creature_8h.html#aec385f62258c23b8c755b8e78a0e1873ab9163dc24970d6c55bc79f344d177e15", null ]
+    ] ],
+    [ "RegenStatsFlags", "Creature_8h.html#aa24ce34a520f35e4ffc0c759b95c69cb", [
+      [ "REGEN_FLAG_HEALTH_IN_COMBAT", "Creature_8h.html#aa24ce34a520f35e4ffc0c759b95c69cbaff6509824749bc9c9bd18fe6c91d407c", null ],
+      [ "REGEN_FLAG_HEALTH", "Creature_8h.html#aa24ce34a520f35e4ffc0c759b95c69cba96beb69bd1a181d485c5fc047b1a67f7", null ],
+      [ "REGEN_FLAG_POWER_IN_COMBAT", "Creature_8h.html#aa24ce34a520f35e4ffc0c759b95c69cbaeafbb7f9a96aa54a2f246673fc6acbe1", null ],
+      [ "REGEN_FLAG_POWER", "Creature_8h.html#aa24ce34a520f35e4ffc0c759b95c69cbaaafe0d30695923fcb4da5bf23e13f318", null ]
+    ] ],
+    [ "SpawnFlags", "Creature_8h.html#a60c3776998bc0b41951ac72e89baaa61", [
+      [ "SPAWN_FLAG_RUN_ON_SPAWN", "Creature_8h.html#a60c3776998bc0b41951ac72e89baaa61a28445503b675593b46d175ff6a01faec", null ],
+      [ "SPAWN_FLAG_HOVER", "Creature_8h.html#a60c3776998bc0b41951ac72e89baaa61abc7ed72b54043750fa30e1de9fd5ffcf", null ]
+    ] ],
+    [ "SplineFlags", "Creature_8h.html#a3b388b7fbe309af507459a14b84e7896", [
+      [ "SPLINEFLAG_WALKMODE", "Creature_8h.html#a3b388b7fbe309af507459a14b84e7896a279a5c8f7d90cf020ec144da59fdd1e0", null ],
+      [ "SPLINEFLAG_FLYING", "Creature_8h.html#a3b388b7fbe309af507459a14b84e7896af8216e30d04dc8ac70594857ddcc6104", null ]
+    ] ],
+    [ "TemporaryFactionFlags", "Creature_8h.html#a446fa4b0844e5cf76f98961e6e90f183", [
+      [ "TEMPFACTION_NONE", "Creature_8h.html#a446fa4b0844e5cf76f98961e6e90f183ad59f1ae7febaae05725b91537ffb84d2", null ],
+      [ "TEMPFACTION_RESTORE_RESPAWN", "Creature_8h.html#a446fa4b0844e5cf76f98961e6e90f183a79e2a0afea33a5c6cf5c68a63498a236", null ],
+      [ "TEMPFACTION_RESTORE_COMBAT_STOP", "Creature_8h.html#a446fa4b0844e5cf76f98961e6e90f183a0e3943f6fe23a0401dfa2787d7fc1a04", null ],
+      [ "TEMPFACTION_RESTORE_REACH_HOME", "Creature_8h.html#a446fa4b0844e5cf76f98961e6e90f183a3a20da4406d33d3007a95beb9d59a1eb", null ],
+      [ "TEMPFACTION_TOGGLE_NON_ATTACKABLE", "Creature_8h.html#a446fa4b0844e5cf76f98961e6e90f183a3f20b026668f9f866718a894055a871f", null ],
+      [ "TEMPFACTION_TOGGLE_IMMUNE_TO_PLAYER", "Creature_8h.html#a446fa4b0844e5cf76f98961e6e90f183a5fdd7a39ba975b8b7cd582268dc0826c", null ],
+      [ "TEMPFACTION_TOGGLE_IMMUNE_TO_NPC", "Creature_8h.html#a446fa4b0844e5cf76f98961e6e90f183a3cf394c1f3c6f05d563e9a56dc19f8cc", null ],
+      [ "TEMPFACTION_TOGGLE_PACIFIED", "Creature_8h.html#a446fa4b0844e5cf76f98961e6e90f183a5ee83d77107b3631310864b1c64af4fd", null ],
+      [ "TEMPFACTION_TOGGLE_NOT_SELECTABLE", "Creature_8h.html#a446fa4b0844e5cf76f98961e6e90f183aaec2fc7e3255fee0d8cb2a779cb049e1", null ],
+      [ "TEMPFACTION_ALL", "Creature_8h.html#a446fa4b0844e5cf76f98961e6e90f183a25eefd749ff853768b5e865bddb275c1", null ]
+    ] ],
+    [ "VirtualItemSlot", "Creature_8h.html#a27fa9a4414aee2cf8b94a6e9b4e5bdf6", [
+      [ "VIRTUAL_ITEM_SLOT_0", "Creature_8h.html#a27fa9a4414aee2cf8b94a6e9b4e5bdf6afbeeb94d660c5808ec5a888b0fb1ee8d", null ],
+      [ "VIRTUAL_ITEM_SLOT_1", "Creature_8h.html#a27fa9a4414aee2cf8b94a6e9b4e5bdf6a6e1124241b4d933306d866ef3495ff8a", null ],
+      [ "VIRTUAL_ITEM_SLOT_2", "Creature_8h.html#a27fa9a4414aee2cf8b94a6e9b4e5bdf6a439d35234a9e700db37dfa3ac4daf092", null ]
+    ] ]
+];

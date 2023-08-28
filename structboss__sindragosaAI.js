@@ -1,0 +1,26 @@
+var structboss__sindragosaAI =
+[
+    [ "boss_sindragosaAI", "structboss__sindragosaAI.html#a9a38c6e08d0d7e9c4ca3e5c49c02c84d", null ],
+    [ "Aggro", "structboss__sindragosaAI.html#a087dcd581e45daeafaa802c8d70699fe", null ],
+    [ "AttackStart", "structboss__sindragosaAI.html#ace588beb663a73d66599cd05ad752ffe", null ],
+    [ "DoFrostBomb", "structboss__sindragosaAI.html#aa8bddc2267016d2af0e878f1225779cc", null ],
+    [ "EnterEvadeMode", "structboss__sindragosaAI.html#a0be4245f95eff8e338efc6ae2fde0f39", null ],
+    [ "JustDied", "structboss__sindragosaAI.html#a41490144a7ea1fbac258fec5e5d140f3", null ],
+    [ "JustReachedHome", "structboss__sindragosaAI.html#ab70fa2131eed562c5c280ce47f0e0fbc", null ],
+    [ "KilledUnit", "structboss__sindragosaAI.html#a7f7c13ee2578773ac57f48278c20912a", null ],
+    [ "MovementInform", "structboss__sindragosaAI.html#a58e5e6cdb8c116827f098ee8413d9576", null ],
+    [ "Reset", "structboss__sindragosaAI.html#aa3192e5460536de0990602d6d5fd6545", null ],
+    [ "SetFlying", "structboss__sindragosaAI.html#a82a2fc94aa3a015b0d67f7b7d4b0b015", null ],
+    [ "UpdateAI", "structboss__sindragosaAI.html#adfe4eeb5bb10e2478fac29673c269fa4", null ],
+    [ "m_pInstance", "structboss__sindragosaAI.html#a770c7633fae6011accf3efb09f86bbcb", null ],
+    [ "m_uiBerserkTimer", "structboss__sindragosaAI.html#a646b70eb98e353b6646364c50e50589c", null ],
+    [ "m_uiCleaveTimer", "structboss__sindragosaAI.html#a858065cb88c459e23e83c2e4ce0dd31a", null ],
+    [ "m_uiFrostBombTimer", "structboss__sindragosaAI.html#aa3e190c8a17279bf7ab79d4882ba7a57", null ],
+    [ "m_uiFrostBreathTimer", "structboss__sindragosaAI.html#a1a3e2ac6cd3dca6bad183a0c2bf112ec", null ],
+    [ "m_uiIceTombSingleTimer", "structboss__sindragosaAI.html#ac369c576bcb1e3893103fabe31aaa4e0", null ],
+    [ "m_uiIcyGripTimer", "structboss__sindragosaAI.html#a967d3df847fb21b69832b2df4f64f55b", null ],
+    [ "m_uiPhase", "structboss__sindragosaAI.html#a88447153b26b902fe325d5774a6d1a3d", null ],
+    [ "m_uiPhaseTimer", "structboss__sindragosaAI.html#a8b165d36541ea7be4f376154507686a5", null ],
+    [ "m_uiTailSmashTimer", "structboss__sindragosaAI.html#a4edbb1ab1b86a120323970e12f4b1db6", null ],
+    [ "m_uiUnchainedMagicTimer", "structboss__sindragosaAI.html#a2d0aa837033c83802a34a88ce9632117", null ]
+];

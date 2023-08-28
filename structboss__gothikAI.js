@@ -1,0 +1,25 @@
+var structboss__gothikAI =
+[
+    [ "boss_gothikAI", "structboss__gothikAI.html#ad82662a33aa6a521bc1f100b8cf3d8c5", null ],
+    [ "Aggro", "structboss__gothikAI.html#a38d3f1d7da5610e0d5cdbc17af20e93e", null ],
+    [ "EnterEvadeMode", "structboss__gothikAI.html#a9f3df31ddf05d6c5216e45443f152cb8", null ],
+    [ "ExecuteAction", "structboss__gothikAI.html#a478a8497c5605828408d9e47da9e0682", null ],
+    [ "GetSubsequentActionTimer", "structboss__gothikAI.html#a781317582274ee7bd30ceaf47d5420fd", null ],
+    [ "HandleGroundPhase", "structboss__gothikAI.html#ae978ec7d01a1d5a769334c2a69a3dfb5", null ],
+    [ "HandleOpenGates", "structboss__gothikAI.html#abe9a4f7bbee08dfa8d745a67335b78de", null ],
+    [ "HasPlayersInLeftSide", "structboss__gothikAI.html#a3931dee6b41419ffc4cb3f79928aa24a", null ],
+    [ "IsCentralDoorClosed", "structboss__gothikAI.html#a0dea091dfd12708912017f88b6eaec81", null ],
+    [ "JustSummoned", "structboss__gothikAI.html#a291d676ff188039ff326a181b106d15b", null ],
+    [ "ProcessCentralDoor", "structboss__gothikAI.html#abea3399542215bb3e5405ed1b0ed124a", null ],
+    [ "Reset", "structboss__gothikAI.html#acc301a28897fd10a9be415c062895d00", null ],
+    [ "StartKnightSummons", "structboss__gothikAI.html#aa0a439c39cd176dfb70c0bad3e52727d", null ],
+    [ "StartRiderSummons", "structboss__gothikAI.html#a7f74cf9be857ebdf7a9d66bd37db2cfe", null ],
+    [ "StartTraineeSummons", "structboss__gothikAI.html#a599ffaa1e2833912af896a035a67894f", null ],
+    [ "SummonedCreatureJustDied", "structboss__gothikAI.html#a8b6def0c5dae83946e1f6d6a3d491cce", null ],
+    [ "m_instance", "structboss__gothikAI.html#a95f2706df8df03bbbe3690d24b0bdeaf", null ],
+    [ "m_isRegularMode", "structboss__gothikAI.html#ad91881f1456db8541707b192adedd344", null ],
+    [ "m_speechStep", "structboss__gothikAI.html#a3027f2a90127b5274c6400e4aa757db3", null ],
+    [ "m_summonedAddGuids", "structboss__gothikAI.html#aafe04197a88b8fc223455d5925dc912c", null ],
+    [ "m_uiPhase", "structboss__gothikAI.html#a6beb75bfb753731cafbd0bc2b9da4060", null ],
+    [ "m_uiSpeech", "structboss__gothikAI.html#ac4ed38a8870b764a9f6343149786c38b", null ]
+];

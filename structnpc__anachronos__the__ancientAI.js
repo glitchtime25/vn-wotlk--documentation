@@ -1,0 +1,27 @@
+var structnpc__anachronos__the__ancientAI =
+[
+    [ "npc_anachronos_the_ancientAI", "structnpc__anachronos__the__ancientAI.html#a78bf98b45e77d5bfcf457ac38d4ed07d", null ],
+    [ "DoInitialSummons", "structnpc__anachronos__the__ancientAI.html#ac2b438e24de99e508622eb4999b12cb8", null ],
+    [ "DoSummonKaldorei", "structnpc__anachronos__the__ancientAI.html#af9d8f80429aee5d200787a26b0620a6e", null ],
+    [ "DoSummonQiraji", "structnpc__anachronos__the__ancientAI.html#a0a4becf3a4f3a01ca24aa0d391fe4913", null ],
+    [ "DoUnsummonArmy", "structnpc__anachronos__the__ancientAI.html#a1f84fc3a13f0a936692d411c587bd462", null ],
+    [ "GetSpeakerByEntry", "structnpc__anachronos__the__ancientAI.html#aa7061c779a1db8a22f562a01244eebe0", null ],
+    [ "JustDidDialogueStep", "structnpc__anachronos__the__ancientAI.html#a6940d61f66c54eb891606fadc568d7dc", null ],
+    [ "JustSummoned", "structnpc__anachronos__the__ancientAI.html#a8db9e72d36434f799bf673454e9a97c2", null ],
+    [ "MovementInform", "structnpc__anachronos__the__ancientAI.html#a89c1234ca536cfa2ecfaee27a3b1f87d", null ],
+    [ "Reset", "structnpc__anachronos__the__ancientAI.html#a3ab7a507c1b1b6c2670d1fee48c0360e", null ],
+    [ "SummonedCreatureJustDied", "structnpc__anachronos__the__ancientAI.html#a1310ca28e1b27f107b1ca6a3da2e98e5", null ],
+    [ "SummonedMovementInform", "structnpc__anachronos__the__ancientAI.html#a594f44dbc00fb6ba06b580525de82b82", null ],
+    [ "UpdateAI", "structnpc__anachronos__the__ancientAI.html#a3e99d027ea5d905b128cf5e4e36c83eb", null ],
+    [ "m_arygosGuid", "structnpc__anachronos__the__ancientAI.html#af1dc4b94962898b6e7e578257ed9b707", null ],
+    [ "m_CaelestraszGuid", "structnpc__anachronos__the__ancientAI.html#a01721bc2aa94a7cae042dbdc7f1cdb7a", null ],
+    [ "m_fandralGuid", "structnpc__anachronos__the__ancientAI.html#add699c7451451747b34a724ebfb49818", null ],
+    [ "m_lQirajiWarriorsList", "structnpc__anachronos__the__ancientAI.html#ade2bfca79e175f5e66a9529820c5c4fd", null ],
+    [ "m_merithraGuid", "structnpc__anachronos__the__ancientAI.html#af4e2e4005624992e6a93f028f22a282d", null ],
+    [ "m_playerGuid", "structnpc__anachronos__the__ancientAI.html#a4558360c742a271a8d940ab85d9e77bf", null ],
+    [ "m_triggerGuid", "structnpc__anachronos__the__ancientAI.html#abdfcefd56f16910fbecbdc6aef5d9ecd", null ],
+    [ "m_uiAliveKaldoreiCount", "structnpc__anachronos__the__ancientAI.html#adfe7ac6b49d968eaba6484f38ecc9196", null ],
+    [ "m_uiAliveQirajiCount", "structnpc__anachronos__the__ancientAI.html#a9b40ab568242050bdc247bfaaf21cefb", null ],
+    [ "m_uiEventStage", "structnpc__anachronos__the__ancientAI.html#a3b84f26e8aa46ea72bc749324c75adcd", null ],
+    [ "m_uiEventTimer", "structnpc__anachronos__the__ancientAI.html#abe586975496971d37c0d09f2e38ed149", null ]
+];

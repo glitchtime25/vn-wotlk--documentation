@@ -1,0 +1,25 @@
+var structboss__zuljinAI =
+[
+    [ "boss_zuljinAI", "structboss__zuljinAI.html#aadef0119717b28f23c1ec411271619b4", null ],
+    [ "Aggro", "structboss__zuljinAI.html#a83eb868bb5e66ca7aa5e64208bc07b9f", null ],
+    [ "DamageTaken", "structboss__zuljinAI.html#a70171beb931cbcc1c059b9c6fad0a4c4", null ],
+    [ "DoDespawnVortexes", "structboss__zuljinAI.html#a8cb1e5b0451c7c8899f9e2e952933bde", null ],
+    [ "EnterEvadeMode", "structboss__zuljinAI.html#a035ad4138b375c36ad8bd56236064f4c", null ],
+    [ "ExecuteAction", "structboss__zuljinAI.html#a4ad14f1f5048d718cbc10d1b54e56bb8", null ],
+    [ "ExecutePhaseTransition", "structboss__zuljinAI.html#a020b794d65c8a24d6080181e6172a112", null ],
+    [ "GetInitialTimerForAction", "structboss__zuljinAI.html#a76e94ed180e4bbd8e8a6246859996397", null ],
+    [ "HandlePhaseTransition", "structboss__zuljinAI.html#adda2b02309d7d6872c44c5cd48a9ccd2", null ],
+    [ "JustDied", "structboss__zuljinAI.html#a0b438a92598bd4673812957602d7a682", null ],
+    [ "JustSummoned", "structboss__zuljinAI.html#a9cf3f5be6596558ab2efe6d6db15f674", null ],
+    [ "MovementInform", "structboss__zuljinAI.html#ad2d951e8a62d6e6a7dd9b648bde41119", null ],
+    [ "ReceiveAIEvent", "structboss__zuljinAI.html#a5665756941fde7ca45bb959cdceb0c06", null ],
+    [ "Reset", "structboss__zuljinAI.html#a9233c9dd4ccf4172964a8ca7bb322920", null ],
+    [ "SpellHit", "structboss__zuljinAI.html#a9a46d1fbd2d2551195e6b51fe36be24f", null ],
+    [ "SpellHitTarget", "structboss__zuljinAI.html#a6f8ffb235d7bdc5363e872ac3b30b75a", null ],
+    [ "SpiritAcquired", "structboss__zuljinAI.html#ab575fbfea92efcbb6b166239f7976e8e", null ],
+    [ "m_healthCheck", "structboss__zuljinAI.html#a1e40dab42bf80ec1b4a4ea954a69cfe0", null ],
+    [ "m_instance", "structboss__zuljinAI.html#a430dfba0c410281eec995eadd9b77dc5", null ],
+    [ "m_lynxRushCount", "structboss__zuljinAI.html#a553782fdad53001c8d22b6e6a3f90582", null ],
+    [ "m_phase", "structboss__zuljinAI.html#a24e368ef981280a372688aabda37af90", null ],
+    [ "m_summons", "structboss__zuljinAI.html#a7c7cce2a4ba2fcb8b529664f582681b2", null ]
+];

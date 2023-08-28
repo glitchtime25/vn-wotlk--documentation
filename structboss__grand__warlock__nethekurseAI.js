@@ -1,0 +1,26 @@
+var structboss__grand__warlock__nethekurseAI =
+[
+    [ "boss_grand_warlock_nethekurseAI", "structboss__grand__warlock__nethekurseAI.html#afb7a86cc67449963be485d0bbe1b2454", null ],
+    [ "Aggro", "structboss__grand__warlock__nethekurseAI.html#a7b5648e86079d0b77d3084c2f475f783", null ],
+    [ "DoTauntPeons", "structboss__grand__warlock__nethekurseAI.html#a340cff85b8138c148eba53ff6bbe6d39", null ],
+    [ "DoYellForPeonAggro", "structboss__grand__warlock__nethekurseAI.html#a91a1a727d711e201de7d43d8548ce657", null ],
+    [ "DoYellForPeonDeath", "structboss__grand__warlock__nethekurseAI.html#a70f05636adb8f67ba11c54a320d55387", null ],
+    [ "JustDied", "structboss__grand__warlock__nethekurseAI.html#a77a9829480cff1e0c4483fefa12672c3", null ],
+    [ "JustReachedHome", "structboss__grand__warlock__nethekurseAI.html#a898040d2369dd89ff0ad1c7470d37796", null ],
+    [ "KilledUnit", "structboss__grand__warlock__nethekurseAI.html#a9d0d6b7f75900902e0cceb6a25149659", null ],
+    [ "MoveInLineOfSight", "structboss__grand__warlock__nethekurseAI.html#a1addeebf980ed8b3e4bc16005f0d96cd", null ],
+    [ "Reset", "structboss__grand__warlock__nethekurseAI.html#a8649bdd63d1a421a2ad71fe8107933ad", null ],
+    [ "UpdateAI", "structboss__grand__warlock__nethekurseAI.html#af9777e925e94043a879ee141631c69e0", null ],
+    [ "m_bIntroOnce", "structboss__grand__warlock__nethekurseAI.html#a547767bfea6ca87da0a98f5c3708b519", null ],
+    [ "m_bIsIntroEvent", "structboss__grand__warlock__nethekurseAI.html#adbeb3b30a86410cb4e54dd210cbcdf81", null ],
+    [ "m_bIsMainEvent", "structboss__grand__warlock__nethekurseAI.html#a152195a04eddbf71aacbed62f49367e7", null ],
+    [ "m_bIsRegularMode", "structboss__grand__warlock__nethekurseAI.html#ac0d48074b0bc9d7be9f9794645810f14", null ],
+    [ "m_bSpinOnce", "structboss__grand__warlock__nethekurseAI.html#a86fda491b179ffb597c28f33c91158c8", null ],
+    [ "m_firstPhase", "structboss__grand__warlock__nethekurseAI.html#afd42141c643e23b4533af4f27cd57e22", null ],
+    [ "m_pInstance", "structboss__grand__warlock__nethekurseAI.html#a8996e5a05129745edc04d78d70ed45b6", null ],
+    [ "m_uiCleaveTimer", "structboss__grand__warlock__nethekurseAI.html#a7dd045c8771d5d974f2e8090794346be", null ],
+    [ "m_uiDeathCoilTimer", "structboss__grand__warlock__nethekurseAI.html#adfa29a561ed3360a84c72fd3f041bbee", null ],
+    [ "m_uiPeonKilledCount", "structboss__grand__warlock__nethekurseAI.html#a557753bbc71e1e765077e4e3444ba53a", null ],
+    [ "m_uiShadowFissureTimer", "structboss__grand__warlock__nethekurseAI.html#aed229a22d66375935a2cbc0ee02e005f", null ],
+    [ "m_uiTauntTimer", "structboss__grand__warlock__nethekurseAI.html#a78951d29b954dd41b19544e6383c638e", null ]
+];

@@ -1,0 +1,25 @@
+var structnpc__keeper__remulosAI =
+[
+    [ "npc_keeper_remulosAI", "structnpc__keeper__remulosAI.html#ac5668bfbfcc99725e98c1632d36ede9d", null ],
+    [ "DoDespawnSummoned", "structnpc__keeper__remulosAI.html#a229d1c1f23be684a3e4a4f86e2ff1d83", null ],
+    [ "DoHandleOutro", "structnpc__keeper__remulosAI.html#a828c16d1117110d16165530b5486b9dc", null ],
+    [ "GetSpeakerByEntry", "structnpc__keeper__remulosAI.html#a7992df670581e5496d053be1eb900475", null ],
+    [ "JustDidDialogueStep", "structnpc__keeper__remulosAI.html#a2cfe37658bee05bee98636a8603be3d1", null ],
+    [ "JustDied", "structnpc__keeper__remulosAI.html#ae9d059dfcd79f87d9344c595de253094", null ],
+    [ "JustSummoned", "structnpc__keeper__remulosAI.html#ad8e63d7d0bc12bc48c3591b0c7c41bd2", null ],
+    [ "Reset", "structnpc__keeper__remulosAI.html#a8974bc2d0bfeeccb1461446e4a2564b6", null ],
+    [ "SummonedCreatureJustDied", "structnpc__keeper__remulosAI.html#a9609eba21ffa375640c235f719d7884f", null ],
+    [ "SummonedJustReachedHome", "structnpc__keeper__remulosAI.html#a6eed65308ab8db4731fdd1bf619b082e", null ],
+    [ "SummonedMovementInform", "structnpc__keeper__remulosAI.html#a840cd1053e4d4f8dbb8a70b23c73a9f0", null ],
+    [ "UpdateEscortAI", "structnpc__keeper__remulosAI.html#a73445fabe657331331aca10eea18814e", null ],
+    [ "WaypointReached", "structnpc__keeper__remulosAI.html#a9b40f77c52fa8f2ef4b5bdfd3b5d78d8", null ],
+    [ "m_defendersList", "structnpc__keeper__remulosAI.html#afbfb7d6a14298eb5a0ec3d326b6bc12b", null ],
+    [ "m_eranikusGuid", "structnpc__keeper__remulosAI.html#a9997b362099bfb5d5409b9b52b46ee0c", null ],
+    [ "m_healTimer", "structnpc__keeper__remulosAI.html#a80ae6f806e435275ced0076c8d608809", null ],
+    [ "m_isFirstWave", "structnpc__keeper__remulosAI.html#aa437cb9d113f5411666571917864e24a", null ],
+    [ "m_outroPhase", "structnpc__keeper__remulosAI.html#a6b304a9f4f54aae1f4a81c93adac5fad", null ],
+    [ "m_outroTimer", "structnpc__keeper__remulosAI.html#a7467ebc8bbe06d0c5f27576d0c49157d", null ],
+    [ "m_shadesummonTimer", "structnpc__keeper__remulosAI.html#a189ad3581aaec30ca43c43c6480920eb", null ],
+    [ "m_starfireTimer", "structnpc__keeper__remulosAI.html#a456bd06a1fbc58702ffda13ffea3525c", null ],
+    [ "m_summonCount", "structnpc__keeper__remulosAI.html#a745d22ef553d2fcc953b11cc15611dc3", null ]
+];

@@ -1,0 +1,27 @@
+var structnpc__spawned__oronok__tornheartAI =
+[
+    [ "npc_spawned_oronok_tornheartAI", "structnpc__spawned__oronok__tornheartAI.html#a4860addcebd26755d858fe7510a61258", null ],
+    [ "EnterEvadeMode", "structnpc__spawned__oronok__tornheartAI.html#a7986ab9416e1dbb21d1fe4b5afa212d2", null ],
+    [ "GetSpeakerByEntry", "structnpc__spawned__oronok__tornheartAI.html#a21c768965fd11b98399d1dea05c89e32", null ],
+    [ "JustDidDialogueStep", "structnpc__spawned__oronok__tornheartAI.html#ad5e6abf10ac1a06dbbb43f650e8607b0", null ],
+    [ "JustRespawned", "structnpc__spawned__oronok__tornheartAI.html#a7442839965d5fe3043be36bdea605bca", null ],
+    [ "JustSummoned", "structnpc__spawned__oronok__tornheartAI.html#ac9701bb932a7af327eed14f4ad1bf763", null ],
+    [ "MovementInform", "structnpc__spawned__oronok__tornheartAI.html#a4c2a039e94dc80999f327049918ded96", null ],
+    [ "PointMovementInform", "structnpc__spawned__oronok__tornheartAI.html#affc5d2c7b7037f8251cbb5de420a93b5", null ],
+    [ "Reset", "structnpc__spawned__oronok__tornheartAI.html#a38982117efcf8471b7863b070ea5f75f", null ],
+    [ "UpdateAI", "structnpc__spawned__oronok__tornheartAI.html#a449ad30ce79f56f1cdd899e095a54748", null ],
+    [ "WaypointMotionType", "structnpc__spawned__oronok__tornheartAI.html#a647f4228c86ca3c6c89a15e24461784c", null ],
+    [ "m_bHasAttackStart", "structnpc__spawned__oronok__tornheartAI.html#af3f725bbe7f45821d32b1d5b07de1997", null ],
+    [ "m_borak", "structnpc__spawned__oronok__tornheartAI.html#ae21630ccf7670d036027b9621ae3a27e", null ],
+    [ "m_borakGuid", "structnpc__spawned__oronok__tornheartAI.html#afb6b81ada0604495788bbb10b0bcd343", null ],
+    [ "m_cyrukhGuid", "structnpc__spawned__oronok__tornheartAI.html#a2c93d27594a134a3afc82eb2e3dcdcc6", null ],
+    [ "m_earthSpiritGuid", "structnpc__spawned__oronok__tornheartAI.html#adb20732fd1ad1e43eed2b8e0cb2ba5b7", null ],
+    [ "m_fireSpiritGuid", "structnpc__spawned__oronok__tornheartAI.html#a4fd059235f64c706841c30d58e563e2f", null ],
+    [ "m_gromtor", "structnpc__spawned__oronok__tornheartAI.html#ac167c3dea29b24363d1c19ea859f8a66", null ],
+    [ "m_gromtorGuid", "structnpc__spawned__oronok__tornheartAI.html#af6f9a0fb1a7b72016bd29b66da9ba085", null ],
+    [ "m_torlokGuid", "structnpc__spawned__oronok__tornheartAI.html#a4729434f96af157dd0f2c04be3b78868", null ],
+    [ "m_uiFrostTimer", "structnpc__spawned__oronok__tornheartAI.html#a1068bb4555aaf264d0a99bb7322598c6", null ],
+    [ "m_uiHealTimer", "structnpc__spawned__oronok__tornheartAI.html#a5074496db8a0374014619a93d87c10ae", null ],
+    [ "m_uiLightningTimer", "structnpc__spawned__oronok__tornheartAI.html#ac7e474ea50f3c9ea5d656ac7576e873e", null ],
+    [ "m_uiTotemTimer", "structnpc__spawned__oronok__tornheartAI.html#a23ed9c517513cae7791607865567d18e", null ]
+];

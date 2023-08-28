@@ -1,0 +1,25 @@
+var boss__malygos_8cpp =
+[
+    [ "HoverDiskSummonData", "structHoverDiskSummonData.html", "structHoverDiskSummonData" ],
+    [ "boss_malygosAI", "structboss__malygosAI.html", "structboss__malygosAI" ],
+    [ "npc_power_sparkAI", "structnpc__power__sparkAI.html", "structnpc__power__sparkAI" ],
+    [ "spell_ride_red_dragon_buddy", "structspell__ride__red__dragon__buddy.html", "structspell__ride__red__dragon__buddy" ],
+    [ "spell_arcane_bomb", "structspell__arcane__bomb.html", "structspell__arcane__bomb" ],
+    [ "spell_arcane_storm", "structspell__arcane__storm.html", "structspell__arcane__storm" ],
+    [ "spell_vortex", "structspell__vortex.html", "structspell__vortex" ],
+    [ "spell_vortex_aura", "structspell__vortex__aura.html", "structspell__vortex__aura" ],
+    [ "spell_align_disk_aggro", "structspell__align__disk__aggro.html", "structspell__align__disk__aggro" ],
+    [ "AddSC_boss_malygos", "boss__malygos_8cpp.html#a363d7f950daf5b56e90980dea282857b", null ],
+    [ "ProcessEventId_event_go_focusing_iris", "boss__malygos_8cpp.html#a60cf0cb6f43ea396a13011d032010d99", null ],
+    [ "aCenterMovePos", "boss__malygos_8cpp.html#a467cab1b9d9c7825c23a843cfc70d1af", null ],
+    [ "aDragonsMovePos", "boss__malygos_8cpp.html#ac553bbd6a76be36c8095bce7f5d78153", null ],
+    [ "aHoverMovePos", "boss__malygos_8cpp.html#abb56cfc4237e9cdb15abe9548dba0090", null ],
+    [ "aIntroDialogue", "boss__malygos_8cpp.html#a61a4cfc7db2393f713388e73716eb369", null ],
+    [ "aSurgeMovePos", "boss__malygos_8cpp.html#a5df1adaa6434bc0ad5399dbc386ae764", null ],
+    [ "aTransitionPos", "boss__malygos_8cpp.html#a3ce670001277ce992766aa99fb26e375", null ],
+    [ "aVortexMovePos", "boss__malygos_8cpp.html#ac07381e12731c0b7361df69f8f3906f7", null ],
+    [ "lordDiskSummonData", "boss__malygos_8cpp.html#ab6bbd9322fc923bb4435d2fe66627f0b", null ],
+    [ "scionDiskSummonData", "boss__malygos_8cpp.html#a8090fcd904a0573a36b3b3df70344425", null ],
+    [ "vortexSpellsHeroic", "boss__malygos_8cpp.html#a6e71b96fcea53f22ed21fae38b2e5e92", null ],
+    [ "vortexSpellsNormal", "boss__malygos_8cpp.html#acddc4fe311bb8287f494e0292e30eafb", null ]
+];

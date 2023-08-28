@@ -1,0 +1,28 @@
+var structboss__warchief__kargath__bladefistAI =
+[
+    [ "boss_warchief_kargath_bladefistAI", "structboss__warchief__kargath__bladefistAI.html#a73a9e9ccbcf9d6164b5746367f1a6c2b", null ],
+    [ "Aggro", "structboss__warchief__kargath__bladefistAI.html#a0166281213c7e5dd6e847786cb69cc61", null ],
+    [ "DoDespawnAdds", "structboss__warchief__kargath__bladefistAI.html#ab5166ccb8d08e856a6277738e9c0e671", null ],
+    [ "JustDied", "structboss__warchief__kargath__bladefistAI.html#af9faf85cd448146fc803ae5f1a5c31a6", null ],
+    [ "JustReachedHome", "structboss__warchief__kargath__bladefistAI.html#ad3e386556b3bc6e3472c7a6274e8ff4f", null ],
+    [ "JustSummoned", "structboss__warchief__kargath__bladefistAI.html#a503fd105fc7106ab47ac00908d406059", null ],
+    [ "KilledUnit", "structboss__warchief__kargath__bladefistAI.html#a06a555859045f584f7154f04da9ac417", null ],
+    [ "OnLeash", "structboss__warchief__kargath__bladefistAI.html#ac3a1917e1f64bd85790cea1d2965ee1c", null ],
+    [ "Reset", "structboss__warchief__kargath__bladefistAI.html#a5db0d0bd44584b3f9339cb8110518056", null ],
+    [ "SpawnAssassin", "structboss__warchief__kargath__bladefistAI.html#a221ba4d12654afb9ff24d1fd3245cb26", null ],
+    [ "SpellHitTarget", "structboss__warchief__kargath__bladefistAI.html#ac6914167b081ecbe6e2532131fe04736", null ],
+    [ "UpdateAI", "structboss__warchief__kargath__bladefistAI.html#a6ec85d80a5f48dc7a030677c6fec3f16", null ],
+    [ "m_bInBlade", "structboss__warchief__kargath__bladefistAI.html#ac5d03f9b21060a6fc6f9d87e7f78902b", null ],
+    [ "m_bIsRegularMode", "structboss__warchief__kargath__bladefistAI.html#adad13d12931e2ec5a043f537eca31a66", null ],
+    [ "m_bladeDanceTargetGuids", "structboss__warchief__kargath__bladefistAI.html#a389ff510d233f38341a06e8f91f9352b", null ],
+    [ "m_pInstance", "structboss__warchief__kargath__bladefistAI.html#a60e8f63000493007edfe629eb49554e4", null ],
+    [ "m_uiAssassinsTimer", "structboss__warchief__kargath__bladefistAI.html#a260e1007dfa45b61729c7f0406b69d39", null ],
+    [ "m_uiBladeDanceTimer", "structboss__warchief__kargath__bladefistAI.html#a6d860a19a540febffa469943033bd2d5", null ],
+    [ "m_uiChargeTimer", "structboss__warchief__kargath__bladefistAI.html#a8c3f6be96108075f078adbf4788e43a3", null ],
+    [ "m_uiSummonAssistantTimer", "structboss__warchief__kargath__bladefistAI.html#abbf0f75b04e32405ba7ee29f48ebd64d", null ],
+    [ "m_uiSummoned", "structboss__warchief__kargath__bladefistAI.html#a17a71d5d72c35315e9cd0128e21e80e0", null ],
+    [ "m_uiTargetNum", "structboss__warchief__kargath__bladefistAI.html#af3e299638757d44bd41846b64e0ec55b", null ],
+    [ "m_uiWaitTimer", "structboss__warchief__kargath__bladefistAI.html#a92f9e8221a361412e2654f3301a84a84", null ],
+    [ "m_vAddGuids", "structboss__warchief__kargath__bladefistAI.html#ae95732e6249fdf14b6078ef436fb7a9d", null ],
+    [ "m_vAssassinGuids", "structboss__warchief__kargath__bladefistAI.html#a3efda226bf8b3704ba3019ba0deeeb18", null ]
+];

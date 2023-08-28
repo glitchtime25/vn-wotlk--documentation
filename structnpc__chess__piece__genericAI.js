@@ -1,0 +1,25 @@
+var structnpc__chess__piece__genericAI =
+[
+    [ "npc_chess_piece_genericAI", "structnpc__chess__piece__genericAI.html#a4fc1b833f7ee3c043f66c2ac02c0e636", null ],
+    [ "AttackStart", "structnpc__chess__piece__genericAI.html#a75b979792e8c358a50a380c2310091c9", null ],
+    [ "CanHandleCharm", "structnpc__chess__piece__genericAI.html#a69ad149bc4521091b7b662951a3509ad", null ],
+    [ "DoCastPrimarySpell", "structnpc__chess__piece__genericAI.html#ad160756a4ba4ca067c9281365ee4eba6", null ],
+    [ "DoCastSecondarySpell", "structnpc__chess__piece__genericAI.html#a9b506c11568356e6800340086c9e5537", null ],
+    [ "EnterEvadeMode", "structnpc__chess__piece__genericAI.html#a8d49fbf4a6c5c12f46134b09b1ff113c", null ],
+    [ "GetMovementSquare", "structnpc__chess__piece__genericAI.html#a81057ab0d652a935780491aacb86315f", null ],
+    [ "GetTargetByType", "structnpc__chess__piece__genericAI.html#a63123fd6d046447f546d805025bcb52a", null ],
+    [ "JustDied", "structnpc__chess__piece__genericAI.html#a10eb1b33979317d6c0d90d4f31102e40", null ],
+    [ "MoveInLineOfSight", "structnpc__chess__piece__genericAI.html#aae393d15d3dfd3e05ef0330b8d370f0d", null ],
+    [ "MovementInform", "structnpc__chess__piece__genericAI.html#a265a572b064ffcfee6497fbd2366bacb", null ],
+    [ "ReceiveAIEvent", "structnpc__chess__piece__genericAI.html#af52db8ac015416cafc43fe100c16503d", null ],
+    [ "Reset", "structnpc__chess__piece__genericAI.html#acf54a427c09f7c8b51fb9e81a32496ba", null ],
+    [ "SpellHit", "structnpc__chess__piece__genericAI.html#a5a4e21e842632b58c9b7d12ca0f1fa99", null ],
+    [ "UpdateAI", "structnpc__chess__piece__genericAI.html#afeb25e882d2570583c1dda7073d038bc", null ],
+    [ "m_bIsPrimarySpell", "structnpc__chess__piece__genericAI.html#a967da36af75dd529cb93a0ca8c0769b1", null ],
+    [ "m_currentSquareGuid", "structnpc__chess__piece__genericAI.html#ad06dfa590c246ef681b0588cf73f7d2f", null ],
+    [ "m_fCurrentOrientation", "structnpc__chess__piece__genericAI.html#a70e4d14257e16a4dd9024533a96bdceb", null ],
+    [ "m_pInstance", "structnpc__chess__piece__genericAI.html#a9a5191acea48fea9a56050bde53181c8", null ],
+    [ "m_uiMoveCommandTimer", "structnpc__chess__piece__genericAI.html#aa60e88d07160f1ce31e72492f78884d9", null ],
+    [ "m_uiMoveTimer", "structnpc__chess__piece__genericAI.html#ad0c10bdf20c4b62eed1daa628c0de2bb", null ],
+    [ "m_uiSpellCommandTimer", "structnpc__chess__piece__genericAI.html#ab8b7859f0acd85149efd95116034f20e", null ]
+];

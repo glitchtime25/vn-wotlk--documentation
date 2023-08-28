@@ -1,0 +1,27 @@
+var structboss__kologarnAI =
+[
+    [ "boss_kologarnAI", "structboss__kologarnAI.html#a4b22add92e32d4582d5e5fe22e158d42", null ],
+    [ "Aggro", "structboss__kologarnAI.html#a49c267169bcb2fffbfa36104844b43d7", null ],
+    [ "JustDied", "structboss__kologarnAI.html#a1a89d6d4d991ced3d413b65ea96059c2", null ],
+    [ "JustReachedHome", "structboss__kologarnAI.html#ad73733174b3d395b974947e037a3477d", null ],
+    [ "JustSummoned", "structboss__kologarnAI.html#a9af015fe72536042bef01112be84b49e", null ],
+    [ "KilledUnit", "structboss__kologarnAI.html#ae749c61d448b3e3fc0bdc95bde7fbb46", null ],
+    [ "ReceiveAIEvent", "structboss__kologarnAI.html#a3e7d03f319e1802b763070463f6e9462", null ],
+    [ "Reset", "structboss__kologarnAI.html#a3e196c6cf8bef3b11cc1bf41996e4094", null ],
+    [ "SummonedCreatureJustDied", "structboss__kologarnAI.html#a13ae7605e195bbdce21a6254f4bcd658", null ],
+    [ "UpdateAI", "structboss__kologarnAI.html#a287760d34bb8f017ae8c12dcb4f40e94", null ],
+    [ "m_bIsRegularMode", "structboss__kologarnAI.html#a104cd074f4c5420cd55d30cdc9200856", null ],
+    [ "m_pInstance", "structboss__kologarnAI.html#abcba28aa6f0b602af7d7de627478e104", null ],
+    [ "m_uiBerserkTimer", "structboss__kologarnAI.html#a7e4a3c8f2e7310e6fd05008e10b9de5c", null ],
+    [ "m_uiDisarmedTimer", "structboss__kologarnAI.html#a3cfc122136e5d0e7619918bc8e286948", null ],
+    [ "m_uiEyebeamTimer", "structboss__kologarnAI.html#a92f7ac4e319a92b7fd9bb71e29a5392c", null ],
+    [ "m_uiMountArmsTimer", "structboss__kologarnAI.html#ab009e20b9f11dfa9d6bb861cc40614a7", null ],
+    [ "m_uiOverheadSmashTimer", "structboss__kologarnAI.html#a92328580d61a8698243afb935dc3f57b", null ],
+    [ "m_uiPetrifyingBreathTimer", "structboss__kologarnAI.html#acaf74d3cfe01c5a5e32631f8f12c17f1", null ],
+    [ "m_uiRespawnLeftTimer", "structboss__kologarnAI.html#a6ef081dc35f66dc80c75babfda6fd553", null ],
+    [ "m_uiRespawnRightTimer", "structboss__kologarnAI.html#a263cfa79a3f54fc23d5b25810909cdeb", null ],
+    [ "m_uiRubbleCount", "structboss__kologarnAI.html#a1490596858981362470ce1b9afe753fa", null ],
+    [ "m_uiShockwaveTimer", "structboss__kologarnAI.html#a381a5a51855ca4bd0cc36bb1cd392f3b", null ],
+    [ "m_uiStoneGripTimer", "structboss__kologarnAI.html#abd43271eede778e620b5c3adb026eff9", null ],
+    [ "m_uiStoneShoutTimer", "structboss__kologarnAI.html#a5703f44d580d401722336f27434d0f03", null ]
+];

@@ -1,0 +1,25 @@
+var structnpc__eris__havenfireAI =
+[
+    [ "npc_eris_havenfireAI", "structnpc__eris__havenfireAI.html#a1de03f0eb8f6a4f230cc4f3d986c657f", null ],
+    [ "DoAttackArchersTarget", "structnpc__eris__havenfireAI.html#a9d91302a7c9f034422d7633ad528a185", null ],
+    [ "DoBalanceEventEnd", "structnpc__eris__havenfireAI.html#afd740414051e6bbe18225ac753d50d8a", null ],
+    [ "DoDespawnSummons", "structnpc__eris__havenfireAI.html#afe1c54bda592f5eeb1520ae6d7c168fe", null ],
+    [ "DoHandlePhaseEnd", "structnpc__eris__havenfireAI.html#ac7141cecd6c25e1e5f9d249b731345ab", null ],
+    [ "DoStartBalanceEvent", "structnpc__eris__havenfireAI.html#ac11344cc2de2a624cb4dd66b60afa860", null ],
+    [ "DoSummonWave", "structnpc__eris__havenfireAI.html#a27a2915e67ff75b98a569f8d275524d7", null ],
+    [ "JustSummoned", "structnpc__eris__havenfireAI.html#aac6eca100c5c1b45d5a53b6c0289ced4", null ],
+    [ "Reset", "structnpc__eris__havenfireAI.html#a1e9cecda10c1ecbb2e2ee3d4486fa8ae", null ],
+    [ "SummonedCreatureJustDied", "structnpc__eris__havenfireAI.html#aa5cf83cd8d261c214d0153760d52090b", null ],
+    [ "SummonedMovementInform", "structnpc__eris__havenfireAI.html#aac199c7c0047f3fd5a027a1e01f7db4e", null ],
+    [ "UpdateAI", "structnpc__eris__havenfireAI.html#abeae985ae4142f486ef608dc19101fe8", null ],
+    [ "m_lSummonedGuidList", "structnpc__eris__havenfireAI.html#a733cb113423e5a20689508a9c8b1d958", null ],
+    [ "m_playerGuid", "structnpc__eris__havenfireAI.html#ae6c14550d5d4308fdcb62167ea869637", null ],
+    [ "m_uiArcherCheckTargetTimer", "structnpc__eris__havenfireAI.html#aef5417c2e4ee479d2aadd949e3ce6f4d", null ],
+    [ "m_uiCurrentWave", "structnpc__eris__havenfireAI.html#ace637ec672970208e55b7c099d57efeb", null ],
+    [ "m_uiEventTimer", "structnpc__eris__havenfireAI.html#a259a3c8ef4cd9828ad29c6ec6599ae87", null ],
+    [ "m_uiKillCounter", "structnpc__eris__havenfireAI.html#adc43dad2b9f7a506ae186f346f4a9a34", null ],
+    [ "m_uiPhase", "structnpc__eris__havenfireAI.html#ae31cc1496645e90642379f38a0de9163", null ],
+    [ "m_uiSadEndTimer", "structnpc__eris__havenfireAI.html#a0801666ccce15a9e53153d788bf1f0f8", null ],
+    [ "m_uiSaveCounter", "structnpc__eris__havenfireAI.html#a665441e0ea99f43667facfc4f322133a", null ],
+    [ "m_uiTotalCounter", "structnpc__eris__havenfireAI.html#a6f9addfdae56788c46f44f5c04304f4e", null ]
+];

@@ -1,0 +1,27 @@
+var structboss__novosAI =
+[
+    [ "boss_novosAI", "structboss__novosAI.html#a5414b9791f6034af63402d09301a18e4", null ],
+    [ "Aggro", "structboss__novosAI.html#ab794cac7d1fe7aa82542d3b01b431af2", null ],
+    [ "JustDied", "structboss__novosAI.html#a39d841294361724755642b48e29170d0", null ],
+    [ "JustReachedHome", "structboss__novosAI.html#a96ae9abbb07214300bb6044242337109", null ],
+    [ "JustSummoned", "structboss__novosAI.html#a4283771e5a8ac032446af69e766308fe", null ],
+    [ "KilledUnit", "structboss__novosAI.html#a0d6eb89cf7aa58217d0cfc74e0cca8fd", null ],
+    [ "LostOneCrystal", "structboss__novosAI.html#a9d5d621b889a17bf744d1d8c95d55245", null ],
+    [ "MoveInLineOfSight", "structboss__novosAI.html#a6dd92029df3c699529f57c827efe9455", null ],
+    [ "Reset", "structboss__novosAI.html#a51075190f5014ad657a948890aa01777", null ],
+    [ "SummonedCreatureJustDied", "structboss__novosAI.html#aae64e7c54aed6d6882298e3402abed19", null ],
+    [ "UpdateAI", "structboss__novosAI.html#ae708624c2c73748ef3a9965e35ffc29f", null ],
+    [ "m_bIsRegularMode", "structboss__novosAI.html#a29ac255e38834e57114e010bb35e2d30", null ],
+    [ "m_pInstance", "structboss__novosAI.html#aca8f2295de6aafc7c940e0740b1c037b", null ],
+    [ "m_uiArcaneBlastTimer", "structboss__novosAI.html#a0318f1bf6ae6cf37214a3d1887a09e4a", null ],
+    [ "m_uiBlizzardTimer", "structboss__novosAI.html#a56e62deb31bd5928ed2c356f0ca1313b", null ],
+    [ "m_uiLostCrystals", "structboss__novosAI.html#a6ee6253b498852da9bebf8ca453f158e", null ],
+    [ "m_uiPhase", "structboss__novosAI.html#af6f13b34970203e6a4ad3482ed3b8b5d", null ],
+    [ "m_uiPhaseTimer", "structboss__novosAI.html#a249c58c04557c25a720b7a68c1231224", null ],
+    [ "m_uiSummonedHandlers", "structboss__novosAI.html#a652697658df924c613452d89e58a8ef3", null ],
+    [ "m_uiSummonFetidTrollTimer", "structboss__novosAI.html#aa412d47ca54760f34357e6138b009e17", null ],
+    [ "m_uiSummonHandlerTimer", "structboss__novosAI.html#a9756b05f160af41d597bde39a0a0a3c2", null ],
+    [ "m_uiSummonHulkingCorpseTimer", "structboss__novosAI.html#a16797af48a0bca8955cf0a51d3141264", null ],
+    [ "m_uiSummonShadowcasterTimer", "structboss__novosAI.html#aaff39965039cc5e691ff06857170fb91", null ],
+    [ "m_uiWrathTimer", "structboss__novosAI.html#a1bd420691d57272f7597a37cce87601e", null ]
+];

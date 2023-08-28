@@ -1,0 +1,26 @@
+var classVMAP_1_1VMapManager2 =
+[
+    [ "VMapManager2", "classVMAP_1_1VMapManager2.html#a65c4acb9c4218efc899dede0129cff8b", null ],
+    [ "~VMapManager2", "classVMAP_1_1VMapManager2.html#a8ae279dbff1ce5b9b7d5fe9b9823cc0d", null ],
+    [ "_loadMap", "classVMAP_1_1VMapManager2.html#aaacbd070b79b2df6f33c16940881f5be", null ],
+    [ "acquireModelInstance", "classVMAP_1_1VMapManager2.html#a705db36ec8821f27f7469347dfe99537", null ],
+    [ "convertPositionToInternalRep", "classVMAP_1_1VMapManager2.html#a296183e6b9290aa331503daa9f2821b7", null ],
+    [ "existsMap", "classVMAP_1_1VMapManager2.html#a1ffba1fbc431172d18d56e0abe82d26c", null ],
+    [ "getAreaInfo", "classVMAP_1_1VMapManager2.html#ae5f906b84361eca4523abbf03a5d9c0e", null ],
+    [ "getDirFileName", "classVMAP_1_1VMapManager2.html#a4e4005b17cc6ce4e5476a73f15160a0e", null ],
+    [ "getHeight", "classVMAP_1_1VMapManager2.html#a09226d6c9507180d51a1974ab0bac20e", null ],
+    [ "GetLiquidLevel", "classVMAP_1_1VMapManager2.html#a6f7228019925d59ccc0d9b85f1a9dc2d", null ],
+    [ "getMapFileName", "classVMAP_1_1VMapManager2.html#a30918e9ef21220529bb90b09c5a60d17", null ],
+    [ "getObjectHitPos", "classVMAP_1_1VMapManager2.html#a0367a2893344ee48a0a5554d5aaafcf7", null ],
+    [ "isInLineOfSight", "classVMAP_1_1VMapManager2.html#ade1a7e531206c36a800140b8d13161f5", null ],
+    [ "IsTileLoaded", "classVMAP_1_1VMapManager2.html#a158d0cd37cc2c2285ea884b77db2609a", null ],
+    [ "loadMap", "classVMAP_1_1VMapManager2.html#a11bfebd016c49e2920edf704790bd694", null ],
+    [ "processCommand", "classVMAP_1_1VMapManager2.html#a8769e6bfa0e8f8a86b895d97f1d23728", null ],
+    [ "releaseModelInstance", "classVMAP_1_1VMapManager2.html#a2d640ad2ba5664da543bfc6811c09e62", null ],
+    [ "unloadMap", "classVMAP_1_1VMapManager2.html#ad304b23570893df2202b6406b76692f7", null ],
+    [ "unloadMap", "classVMAP_1_1VMapManager2.html#a9c0f3301dd99f73aeb9e3a8a206073a9", null ],
+    [ "iInstanceMapTrees", "classVMAP_1_1VMapManager2.html#abf66bdd1407221529a9e62e7bde540fe", null ],
+    [ "iLoadedModelFiles", "classVMAP_1_1VMapManager2.html#a3c21dcf90ca47e91bf47c34b4efe9887", null ],
+    [ "m_vmModelMutex", "classVMAP_1_1VMapManager2.html#ae6f4cac9e82a09602cbf0b0c218cca43", null ],
+    [ "m_vmStaticMapMutex", "classVMAP_1_1VMapManager2.html#a752fb10c9299426c31b1d5469a9d662f", null ]
+];

@@ -1,0 +1,28 @@
+var classTradeData =
+[
+    [ "TradeData", "classTradeData.html#ac2bfab37acbdb9fd955d8f2ee8876b79", null ],
+    [ "GetItem", "classTradeData.html#a6c769042535c69e89bdc19234dd680e4", null ],
+    [ "GetMoney", "classTradeData.html#a54d3de8cb15ccc761d272295b19b7575", null ],
+    [ "GetSpell", "classTradeData.html#a99272f794179b17c50c722ae90ea78bf", null ],
+    [ "GetSpellCastItem", "classTradeData.html#a011acd6730c58aa75d3c27e793748afc", null ],
+    [ "GetTrader", "classTradeData.html#a1a377da3913a91af904c2a4b4ca3377e", null ],
+    [ "GetTraderData", "classTradeData.html#a91911ad105b24d6055a65b07ab6c269f", null ],
+    [ "HasItem", "classTradeData.html#a7ca3b06ef1d970f93e53ad81b364d76c", null ],
+    [ "HasSpellCastItem", "classTradeData.html#a27981abf9bddbfe87bf81836b57e0780", null ],
+    [ "IsAccepted", "classTradeData.html#a75b4970c1f26912bc24da528f226ca76", null ],
+    [ "IsInAcceptProcess", "classTradeData.html#abbae0b720c0b44a05f0625ebafd09cc8", null ],
+    [ "SetAccepted", "classTradeData.html#a9e48c5ee348c5a8d475c5e7b15058b16", null ],
+    [ "SetInAcceptProcess", "classTradeData.html#a4851016708b0e8336ec33c64ab41aa8a", null ],
+    [ "SetItem", "classTradeData.html#ab3eff66bb411bd22a11d8e29f7961507", null ],
+    [ "SetMoney", "classTradeData.html#a0dc996fdc9acab409833caff4e6b489b", null ],
+    [ "SetSpell", "classTradeData.html#a2afa4c75d1fe0b8a712f270166f838ef", null ],
+    [ "Update", "classTradeData.html#ae0afe6c3233262a8727dfc72a0ce110d", null ],
+    [ "m_accepted", "classTradeData.html#af2d924a288687047f4d6a47f81025a00", null ],
+    [ "m_acceptProccess", "classTradeData.html#a1e585dd9ed486381a55e108a709e4db3", null ],
+    [ "m_items", "classTradeData.html#ac27f6047b7585f8b3ef069af68851965", null ],
+    [ "m_money", "classTradeData.html#ab5e22a1c07812f11d8692f6e1daf52c9", null ],
+    [ "m_player", "classTradeData.html#aa19e7f2622b315f9cc75531999b795f4", null ],
+    [ "m_spell", "classTradeData.html#a291fdc4207d594982a780485b960f6fa", null ],
+    [ "m_spellCastItem", "classTradeData.html#adb76e2e7f01cc6f1ee4579ee177ba9c1", null ],
+    [ "m_trader", "classTradeData.html#ae9c8547f43701f0693fd16df84ae2543", null ]
+];

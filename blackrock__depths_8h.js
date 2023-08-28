@@ -1,0 +1,36 @@
+var blackrock__depths_8h =
+[
+    [ "ArenaCylinder", "structArenaCylinder.html", "structArenaCylinder" ],
+    [ "instance_blackrock_depths", "classinstance__blackrock__depths.html", "classinstance__blackrock__depths" ],
+    [ "ArenaNPCs", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dc", [
+      [ "NPC_LEFTY", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca1bd19afc8cdce7fcf32c339974c5791c", null ],
+      [ "NPC_ROTFANG", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca6499b434fac79bd5ba61d0fd05f4982c", null ],
+      [ "NPC_SNOKH", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dcab784aa71fe5c5a16bb0393d27c1ec6fb", null ],
+      [ "NPC_MALGEN", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca05f712742f09f53f8a6fea48db24d3f0", null ],
+      [ "NPC_KORV", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dcadfbc879751d37a52f0d8da58038cb411", null ],
+      [ "NPC_REZZNIK", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dcae0d5f52e7d192eecdca50bfb5899b2c5", null ],
+      [ "NPC_VAJASHNI", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca5eb6054ee43874b90967e7c21dd210a8", null ],
+      [ "NPC_VOLIDA", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca483404de1ff29f93098bba135131de27", null ],
+      [ "NPC_THELDREN", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca488dee0fbf41c0936bc3fbf26d220c10", null ],
+      [ "NPC_WORM", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dcabc8bcefb7cbd9d85139133ce588bf5b7", null ],
+      [ "NPC_STINGER", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca2800693c09914456e9c64af6dc87fd56", null ],
+      [ "NPC_SCREECHER", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca43dc4fd0d0eecc54a46f5b4f38b59e30", null ],
+      [ "NPC_THUNDERSNOUT", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dcada865b0d9efbba68e24f886dac67b558", null ],
+      [ "NPC_CREEPER", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dcaffcde59c862adecfee761a7e037b2d9b", null ],
+      [ "NPC_BEETLE", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dcaeebd5647601aaa76728650b0674c5602", null ],
+      [ "NPC_GOROSH", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca9ef7bc633b4bdbcfd3fb9da261e528c5", null ],
+      [ "NPC_GRIZZLE", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca18c29370e470901201e4fa71e800c935", null ],
+      [ "NPC_EVISCERATOR", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca9be9647ffc16ae8dbcb7d5eb9b53947c", null ],
+      [ "NPC_OKTHOR", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca9997e0e7d4cb2c036e9b32d064e69b3e", null ],
+      [ "NPC_ANUBSHIAH", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dca413e0b5ac112b7ac13778d9e1ad98add", null ],
+      [ "NPC_HEDRUM", "blackrock__depths_8h.html#a704ff15f8a8bc9b203fb0449f8ae60dcab372a0c3b27834bf5d3896e51f8af366", null ]
+    ] ],
+    [ "aArenaCrowdVolume", "blackrock__depths_8h.html#a0b4beceb1e7ad7c09cb22d7eb22f40ba", null ],
+    [ "aArenaNPCs", "blackrock__depths_8h.html#ae6fd6c0525643af99399c4214613e5be", null ],
+    [ "aBarPatrolId", "blackrock__depths_8h.html#a296e4a960724705d27d177f7d7784f4d", null ],
+    [ "aBarPatrolPositions", "blackrock__depths_8h.html#aa370bf03b1a7869a6a739e32d759d662", null ],
+    [ "aHurleyPositions", "blackrock__depths_8h.html#a616ed620182d1d31caf6ae779d90b5ab", null ],
+    [ "aPatronsEmotes", "blackrock__depths_8h.html#aae3d5c3a3813a0b540c3d4b7d3f8283f", null ],
+    [ "aTombDwarfes", "blackrock__depths_8h.html#a9e97747bef77e6f62c809f1514270c4f", null ],
+    [ "aVaultPositions", "blackrock__depths_8h.html#ae2a2cab0b3e93ec553be19714e013d35", null ]
+];

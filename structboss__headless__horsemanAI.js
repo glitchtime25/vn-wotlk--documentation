@@ -1,0 +1,26 @@
+var structboss__headless__horsemanAI =
+[
+    [ "boss_headless_horsemanAI", "structboss__headless__horsemanAI.html#a9f542a62a5d8c4ab5074d2ffd1f34299", null ],
+    [ "DamageTaken", "structboss__headless__horsemanAI.html#a13ab30ddb79165bbe2f4578f6ab54653", null ],
+    [ "DoRejoinHead", "structboss__headless__horsemanAI.html#a0da85f52466291fc06491884cd812b30", null ],
+    [ "DoTossHead", "structboss__headless__horsemanAI.html#a33ff955345aed9875adb23a9ddc67de8", null ],
+    [ "JustDied", "structboss__headless__horsemanAI.html#a321e36d9fbf0135d7e6044ea892086cf", null ],
+    [ "JustReachedHome", "structboss__headless__horsemanAI.html#ab52a8864bc1d75dbc90c37fcc20f7bef", null ],
+    [ "JustRespawned", "structboss__headless__horsemanAI.html#ac214d3772325b7d885f7c6f5a1d2423c", null ],
+    [ "JustSummoned", "structboss__headless__horsemanAI.html#a600d78e81e4c9d66eb45ebb85d7afe72", null ],
+    [ "KilledUnit", "structboss__headless__horsemanAI.html#af738097c0b1b88e9032faa938b325506", null ],
+    [ "MoveInLineOfSight", "structboss__headless__horsemanAI.html#ace379fbdb1e3b3fa8e35058ffd2eccec", null ],
+    [ "MovementInform", "structboss__headless__horsemanAI.html#a1894806efc87fd1d7de9ca17b5862c98", null ],
+    [ "ReceiveAIEvent", "structboss__headless__horsemanAI.html#a22536bf7c1efdad486d5022c11eb51ae", null ],
+    [ "Reset", "structboss__headless__horsemanAI.html#a6e00ed5beddbea294afcdbc7b54a0d69", null ],
+    [ "SpellHit", "structboss__headless__horsemanAI.html#a3b39d05f2c2760a3f28ec37d79bcac53", null ],
+    [ "UpdateAI", "structboss__headless__horsemanAI.html#a1d7adbd7383ae4caceb6e052e1268fdf", null ],
+    [ "m_bHeadRequested", "structboss__headless__horsemanAI.html#a28a0051e6808fc998ef80a4ffe97462c", null ],
+    [ "m_bHorsemanLanded", "structboss__headless__horsemanAI.html#a3a3567aa355bb6d0bb27f4dba5a2929e", null ],
+    [ "m_fightPhase", "structboss__headless__horsemanAI.html#a966971f0de2986e651cf2c59901c60fc", null ],
+    [ "m_headGuid", "structboss__headless__horsemanAI.html#a8cc67c4f0a5b7e1a796e6dfa71629f62", null ],
+    [ "m_instance", "structboss__headless__horsemanAI.html#a9e4490f0414612095c2fdc79682185b6", null ],
+    [ "m_uiCleaveTimer", "structboss__headless__horsemanAI.html#abd1c29fc64f2f548cdd7f2f5c5862ebb", null ],
+    [ "m_uiConflagrationTimer", "structboss__headless__horsemanAI.html#aa76f398b95cefccbcd49cb28889d9e06", null ],
+    [ "m_uiPumpkinTimer", "structboss__headless__horsemanAI.html#a39b78b9bdeb76f728120de7b81f79291", null ]
+];

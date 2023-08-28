@@ -1,0 +1,25 @@
+var structboss__julianneAI =
+[
+    [ "boss_julianneAI", "structboss__julianneAI.html#a8b7154b9154e10a55b5158f2b5431adc", null ],
+    [ "Aggro", "structboss__julianneAI.html#a7395a4d1a7d02625c1de000d1acca021", null ],
+    [ "DamageTaken", "structboss__julianneAI.html#a959d266f5bf3c3f04e36aa9cb9a31783", null ],
+    [ "DoHandleRomuloResurrect", "structboss__julianneAI.html#adc07540560fdc1c528c6a45a5501c51d", null ],
+    [ "DoRemoveFakeDeath", "structboss__julianneAI.html#a6203f0f411ce2107da47dfaf7b275697", null ],
+    [ "DoSetFakeDeath", "structboss__julianneAI.html#a1f153842759070be9e6ba1945be6e974", null ],
+    [ "JustDied", "structboss__julianneAI.html#a835b5bcab818067b3d24e673a57dd78c", null ],
+    [ "JustReachedHome", "structboss__julianneAI.html#aa84666a2836e64587f27eb05e2e92ba4", null ],
+    [ "JustSummoned", "structboss__julianneAI.html#ae8ce06f24d1858cdfefc3b4dafc16821", null ],
+    [ "KilledUnit", "structboss__julianneAI.html#ac3e21c09ecd573f4dae0050a5f3a02b1", null ],
+    [ "Reset", "structboss__julianneAI.html#a162dd429b49dc925b29d01574c3aabc2", null ],
+    [ "UpdateAI", "structboss__julianneAI.html#a33a22629376e494692cea05af5ab9ebc", null ],
+    [ "m_bIsFakingDeath", "structboss__julianneAI.html#a71c5d1953e51df9b277bf25fdb33864b", null ],
+    [ "m_instance", "structboss__julianneAI.html#abf325ecaccfc4daff332870f451424a8", null ],
+    [ "m_Phase", "structboss__julianneAI.html#a58547e903302773be15785cf0c650d85", null ],
+    [ "m_uiAggroTimer", "structboss__julianneAI.html#a2699d0ef14bcb872faffbb5d04970821", null ],
+    [ "m_uiBlindingPassionTimer", "structboss__julianneAI.html#a621e11ebc274c1f10ac8c42511030583", null ],
+    [ "m_uiDevotionTimer", "structboss__julianneAI.html#a4af937d25871e1910e9fa5cda7bccf78", null ],
+    [ "m_uiEternalAffectionTimer", "structboss__julianneAI.html#ad95cc74ab17b9de465422b5e41d8a6b5", null ],
+    [ "m_uiPowerfulAttractionTimer", "structboss__julianneAI.html#a4261f50045ab230784466ce4069ba970", null ],
+    [ "m_uiResurrectSelfTimer", "structboss__julianneAI.html#aad7218092d4e3d2b184473d3cf360f95", null ],
+    [ "m_uiSummonRomuloTimer", "structboss__julianneAI.html#a5bfc44bc2312882383256b616d469753", null ]
+];

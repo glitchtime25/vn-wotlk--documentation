@@ -1,0 +1,27 @@
+var classinstance__ruby__sanctum =
+[
+    [ "instance_ruby_sanctum", "classinstance__ruby__sanctum.html#a3e1a2012d86d89de2563a75b7ae15eb3", null ],
+    [ "DoHandleZarithrianDoor", "classinstance__ruby__sanctum.html#ab660e8335b9c0c5d03852bb44ea963a5", null ],
+    [ "GetData", "classinstance__ruby__sanctum.html#a57e68dff44fb100657b13bacd4b9cff4", null ],
+    [ "GetPortalsGuidList", "classinstance__ruby__sanctum.html#a4d299b615f375bd68cfb3e11671bbfd2", null ],
+    [ "GetSpawnStalkersGuidList", "classinstance__ruby__sanctum.html#acb4556161472560e234910b36bac0e39", null ],
+    [ "Initialize", "classinstance__ruby__sanctum.html#a569da9d32aae8c21ae888657e966541f", null ],
+    [ "Is25ManDifficulty", "classinstance__ruby__sanctum.html#a284b038a33d6647beed622a6878447c9", null ],
+    [ "IsEncounterInProgress", "classinstance__ruby__sanctum.html#a3ade883d3c6ccdb47360630d8852995e", null ],
+    [ "IsHeroicDifficulty", "classinstance__ruby__sanctum.html#ab5511288f33484e8dab84d5e8867051d", null ],
+    [ "Load", "classinstance__ruby__sanctum.html#a5bfee5ba661f4f354f9631b1295062da", null ],
+    [ "OnCreatureCreate", "classinstance__ruby__sanctum.html#aa25c59ebf8cbd8197fa67be169626e85", null ],
+    [ "OnCreatureRespawn", "classinstance__ruby__sanctum.html#a582710b3bf6cdf5f7af4f35ea88bb48c", null ],
+    [ "OnObjectCreate", "classinstance__ruby__sanctum.html#ae3526f7852a0550c47a69da3befc4fc1", null ],
+    [ "OnPlayerEnter", "classinstance__ruby__sanctum.html#a3e652d6dd02aa832678bd3b1ddb05a4b", null ],
+    [ "Save", "classinstance__ruby__sanctum.html#a6d5bbb694638a411ac8081a1b8330b83", null ],
+    [ "SetData", "classinstance__ruby__sanctum.html#a24152cae75667bc2688ab403b4dbc679", null ],
+    [ "Update", "classinstance__ruby__sanctum.html#a3679cece51e13ad7107179b860ae2872", null ],
+    [ "m_auiEncounter", "classinstance__ruby__sanctum.html#a3f8f145dd1738c157f2d84166b90ce6d", null ],
+    [ "m_lSpawnStalkersGuidList", "classinstance__ruby__sanctum.html#a6b0abf387958d8b1b29ee909a8c09de1", null ],
+    [ "m_lTwilightPortalsGuidList", "classinstance__ruby__sanctum.html#adbb249d97d6bdf6d2946b2326e69a0bd", null ],
+    [ "m_uiHalionResetTimer", "classinstance__ruby__sanctum.html#a05c0462b9cd0e31dd1f2cc21a2b4bcd8", null ],
+    [ "m_uiHalionSummonStage", "classinstance__ruby__sanctum.html#a9bc649f3798a90505781eebb74475b52", null ],
+    [ "m_uiHalionSummonTimer", "classinstance__ruby__sanctum.html#ae7981e8f227d48ce911179506c0493d7", null ],
+    [ "strInstData", "classinstance__ruby__sanctum.html#a8cd9ff85d33be5d7b15dc3114c6b8cc1", null ]
+];

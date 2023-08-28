@@ -1,0 +1,25 @@
+var structboss__felblood__kaelthasAI =
+[
+    [ "boss_felblood_kaelthasAI", "structboss__felblood__kaelthasAI.html#a71376ffafd330088928c6062bdb5d132", null ],
+    [ "Aggro", "structboss__felblood__kaelthasAI.html#ada5c483fdb85093093a0cbe621850c91", null ],
+    [ "EnterEvadeMode", "structboss__felblood__kaelthasAI.html#aee6066a8ada9b714bd9db69fa4e458f5", null ],
+    [ "ExecuteAction", "structboss__felblood__kaelthasAI.html#a47d58ea39add0e937ec26f0ef72f382c", null ],
+    [ "HandleGravityLapse", "structboss__felblood__kaelthasAI.html#a8abb6ee9f533ab012cb0e1dacd2ccba1", null ],
+    [ "HandleIntro", "structboss__felblood__kaelthasAI.html#a61e189a5d939d6fa613b375261f2c955", null ],
+    [ "HandleOutro", "structboss__felblood__kaelthasAI.html#afac37f52adbfaeb32d2f328d201360ef", null ],
+    [ "JustDied", "structboss__felblood__kaelthasAI.html#abb36667189dd8337a996467b446642e7", null ],
+    [ "JustPreventedDeath", "structboss__felblood__kaelthasAI.html#ace1b73db4e346e3f2f7a6e1f7a279eb9", null ],
+    [ "JustSummoned", "structboss__felblood__kaelthasAI.html#a9e762b137ee4599c01c2ba3a951d249f", null ],
+    [ "MoveInLineOfSight", "structboss__felblood__kaelthasAI.html#af4d268dd9f9a6c16cc7d4f3e1d9f7497", null ],
+    [ "ReceiveAIEvent", "structboss__felblood__kaelthasAI.html#ab3b70d96d4e8ef3834b89f27773be18f", null ],
+    [ "Reset", "structboss__felblood__kaelthasAI.html#a093e0dc011ad54aaca48bfd7f0562994", null ],
+    [ "m_firstGravityLapse", "structboss__felblood__kaelthasAI.html#a9a01ebd8a7f58604883502b1a6d3c17d", null ],
+    [ "m_gravityLapseStage", "structboss__felblood__kaelthasAI.html#ab612fcf738dd69abd1c3f9fabc843bd9", null ],
+    [ "m_instance", "structboss__felblood__kaelthasAI.html#a1788e94e141aea5f1bdd70b5b86f42b5", null ],
+    [ "m_introStage", "structboss__felblood__kaelthasAI.html#ae3d640f84aab8a4195924d1181f09b26", null ],
+    [ "m_introStarted", "structboss__felblood__kaelthasAI.html#a12217b6c863bd20c4854e79c70344d03", null ],
+    [ "m_isFirstPhase", "structboss__felblood__kaelthasAI.html#af4620966c4141c79aed7c1a06041c6c4", null ],
+    [ "m_isRegularMode", "structboss__felblood__kaelthasAI.html#ab0b9573b8caece6f1b7fe9b2ff695570", null ],
+    [ "m_outroStage", "structboss__felblood__kaelthasAI.html#a8529661cce3f9845a9a205629a2ea6f1", null ],
+    [ "m_spawns", "structboss__felblood__kaelthasAI.html#a945a1fc2f325177ac78e35d47b3eb58a", null ]
+];

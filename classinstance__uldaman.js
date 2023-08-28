@@ -1,0 +1,28 @@
+var classinstance__uldaman =
+[
+    [ "instance_uldaman", "classinstance__uldaman.html#a190581e37e4dd81a215930537377ff84", null ],
+    [ "~instance_uldaman", "classinstance__uldaman.html#ae321d7090dd74f5cbdf64479d4a6c491", null ],
+    [ "DoResetKeeperEvent", "classinstance__uldaman.html#ac7301292d573a4aae509669939a1db4b", null ],
+    [ "GetClosestDwarfNotInCombat", "classinstance__uldaman.html#a6028c8e8eb8c365ed399d59bd35c8fce", null ],
+    [ "GetData", "classinstance__uldaman.html#a85829daabf2a921191df6a1caedbc696", null ],
+    [ "GetData64", "classinstance__uldaman.html#a01a1254afd9142bba4926b6ce4143684", null ],
+    [ "Initialize", "classinstance__uldaman.html#aab9b7720283f6c41dc42e8f6d3b3a227", null ],
+    [ "Load", "classinstance__uldaman.html#a0716885c40e3315ab11203f777ab862f", null ],
+    [ "OnCreatureCreate", "classinstance__uldaman.html#a0d82b1ba1232ae3700c68a4e2d47388c", null ],
+    [ "OnCreatureDeath", "classinstance__uldaman.html#a23d2fa716c434e74b396eb52c9deea14", null ],
+    [ "OnCreatureEvade", "classinstance__uldaman.html#a750cb334e8da9774ed131136c3a1d064", null ],
+    [ "OnCreatureGroupDespawn", "classinstance__uldaman.html#a845f64d71c7806b7af059ad92a8752fd", null ],
+    [ "OnObjectCreate", "classinstance__uldaman.html#a8a28d10a3bdd9b7bc6561802223cb18b", null ],
+    [ "Save", "classinstance__uldaman.html#a0625261c55fdecaf26e4e03081e8250d", null ],
+    [ "SetData", "classinstance__uldaman.html#a842386d81f6e80cceea01c27d44be142", null ],
+    [ "SetData64", "classinstance__uldaman.html#a467e90329b1ada16e314cd5f8cf155f4", null ],
+    [ "StartEvent", "classinstance__uldaman.html#ac9abd4419b3ef280ec5fd5acc3e14522", null ],
+    [ "Update", "classinstance__uldaman.html#a4debde0a26786ebfb5c4f68e8f2c3d28", null ],
+    [ "m_auiEncounter", "classinstance__uldaman.html#a76456daecd5ae83aa5fce422a77e1be1", null ],
+    [ "m_lKeepers", "classinstance__uldaman.html#a9a747f8d2f37e7b9fa986f3fb3f4a400", null ],
+    [ "m_lWardens", "classinstance__uldaman.html#ad851522e7ebf5b0046708ea7931d2496", null ],
+    [ "m_playerGuid", "classinstance__uldaman.html#a21b2bd12a5bd123c78d3a071632326e5", null ],
+    [ "m_strInstData", "classinstance__uldaman.html#aa2f3f06b73a1132d0b9f1f06ea4b8b5b", null ],
+    [ "m_uiKeeperCooldown", "classinstance__uldaman.html#acd21f49ea743469b2861cdd9eddc6e4c", null ],
+    [ "m_uiStoneKeepersFallen", "classinstance__uldaman.html#ac9b8f5958b33f149a70fa35146b39634", null ]
+];

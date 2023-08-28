@@ -1,0 +1,25 @@
+var structnpc__voice__yogg__saronAI =
+[
+    [ "npc_voice_yogg_saronAI", "structnpc__voice__yogg__saronAI.html#a7a3a851145d6ce254d3cf554b972ac01", null ],
+    [ "AttackStart", "structnpc__voice__yogg__saronAI.html#a1497af51d863f99a5b0eefc50809c73e", null ],
+    [ "JustSummoned", "structnpc__voice__yogg__saronAI.html#a0615f44b41ef5ea0b81640454d61fb69", null ],
+    [ "MoveInLineOfSight", "structnpc__voice__yogg__saronAI.html#a8d11a29e12d1a38aa7b0504f79cbe67b", null ],
+    [ "ReceiveAIEvent", "structnpc__voice__yogg__saronAI.html#a667ad3910b7cfc313175224a47de25bc", null ],
+    [ "Reset", "structnpc__voice__yogg__saronAI.html#a52333c775e84081fa5e5a320928c5689", null ],
+    [ "SpellHitTarget", "structnpc__voice__yogg__saronAI.html#a1745e9725feaa83eec4974189f593759", null ],
+    [ "UpdateAI", "structnpc__voice__yogg__saronAI.html#acf3c5f1c7ad6c7e91e497f0733f411b5", null ],
+    [ "m_bIsRegularMode", "structnpc__voice__yogg__saronAI.html#a510e659718b8edf953faa959d64ebd35", null ],
+    [ "m_pInstance", "structnpc__voice__yogg__saronAI.html#ad244cedb8e242c5523be039627e943f5", null ],
+    [ "m_uiBerserkTimer", "structnpc__voice__yogg__saronAI.html#a5b341cb64c982f4db01d3680a6b462f6", null ],
+    [ "m_uiConstrictorTentacleTimer", "structnpc__voice__yogg__saronAI.html#a39885471054b73f12199fa8d508b5ae8", null ],
+    [ "m_uiCorruptorTentacleTimer", "structnpc__voice__yogg__saronAI.html#ab91436d5dd992198ae33a48b926ace7d", null ],
+    [ "m_uiCrusherTentacleTimer", "structnpc__voice__yogg__saronAI.html#a9fa057e70fd04cbe284f221e384ee906", null ],
+    [ "m_uiGuardianTimer", "structnpc__voice__yogg__saronAI.html#a05720bdd5cc349b5ab0ab2463e936dc3", null ],
+    [ "m_uiMadnessTimer", "structnpc__voice__yogg__saronAI.html#a93d7fae1ee0c56af7c8b57907467d33f", null ],
+    [ "m_uiMaxPortals", "structnpc__voice__yogg__saronAI.html#a7eff0757dad9f6daa9aa6d01418abe5d", null ],
+    [ "m_uiPhase", "structnpc__voice__yogg__saronAI.html#a7415b75ee26bd1c5dfd95028ccf95e23", null ],
+    [ "m_uiPortalsCount", "structnpc__voice__yogg__saronAI.html#a0e9542f7cf3d7e5d7582b5b3ddda8394", null ],
+    [ "m_uiSanityCheckTimer", "structnpc__voice__yogg__saronAI.html#a01c3dc9341be9721d2b87764cdea0cf8", null ],
+    [ "m_uiSummonGuardianTimer", "structnpc__voice__yogg__saronAI.html#a83cb23e5ae27b55d7cc5a5bb2e8e20ca", null ],
+    [ "m_vuiMadnessPhases", "structnpc__voice__yogg__saronAI.html#a80c86535b932793215ae35b59faf0ae3", null ]
+];

@@ -1,0 +1,27 @@
+var classBattleGroundQueue =
+[
+    [ "SelectionPool", "classBattleGroundQueue_1_1SelectionPool.html", "classBattleGroundQueue_1_1SelectionPool" ],
+    [ "GroupsQueueType", "classBattleGroundQueue.html#a97cfa85eecee6e2b81207a3876fdf442", null ],
+    [ "QueuedPlayersMap", "classBattleGroundQueue.html#ad168ddfb3edb0ee83d800c7bc9f73373", null ],
+    [ "BattleGroundQueue", "classBattleGroundQueue.html#a8eb51f824e6d65b6567388317038db67", null ],
+    [ "~BattleGroundQueue", "classBattleGroundQueue.html#ace4e82d788dc6ba44b32804a006b6e2c", null ],
+    [ "AddGroup", "classBattleGroundQueue.html#a101e4b94f69ef76275db4eec15bdb58e", null ],
+    [ "CheckNormalMatch", "classBattleGroundQueue.html#a0be1825f0fe29ecdc439525ad9ee6ef9", null ],
+    [ "CheckPremadeMatch", "classBattleGroundQueue.html#a73a0ef682508d3cfd13e2dc3e685b169", null ],
+    [ "CheckSkirmishForSameFaction", "classBattleGroundQueue.html#ad75c02c80265e8d4ee67cadf62d60959", null ],
+    [ "FillPlayersToBg", "classBattleGroundQueue.html#ace7dd1fbaee6e506eebbcec071225e61", null ],
+    [ "GetAverageQueueWaitTime", "classBattleGroundQueue.html#aaad0b13ecd75f91d2f80302d2d5d6644", null ],
+    [ "GetPlayerGroupInfoData", "classBattleGroundQueue.html#aea14887d570348f613f562492e60a755", null ],
+    [ "InviteGroupToBg", "classBattleGroundQueue.html#adb6bb5a46dfb75d1723b4ccbc1d2bd8e", null ],
+    [ "IsPlayerInvited", "classBattleGroundQueue.html#a74cb1a78fa60d7a870e4a1a2e2380866", null ],
+    [ "PlayerInvitedToBgUpdateAverageWaitTime", "classBattleGroundQueue.html#a85f386312cd712dd9e05f6d6f4360e46", null ],
+    [ "RemovePlayer", "classBattleGroundQueue.html#a66bc6553872e49dd56133fda5a94c575", null ],
+    [ "Update", "classBattleGroundQueue.html#af7b20fca70ffededaf59d29df058a6c7", null ],
+    [ "m_lock", "classBattleGroundQueue.html#abb8369014c2d912c83d5b701abccbfff", null ],
+    [ "m_queuedGroups", "classBattleGroundQueue.html#aaf5160586cb7cd490a6e67b2705a5a07", null ],
+    [ "m_queuedPlayers", "classBattleGroundQueue.html#af008c33f7d1faa079482f92bba977834", null ],
+    [ "m_selectionPools", "classBattleGroundQueue.html#a9d1e8f8d38dd46f0a8051fc476831101", null ],
+    [ "m_sumOfWaitTimes", "classBattleGroundQueue.html#a5fe6153dbc84016dc15f149fb9826314", null ],
+    [ "m_waitTimeLastPlayer", "classBattleGroundQueue.html#a1255a24104fcc3636463b07dee12ee27", null ],
+    [ "m_waitTimes", "classBattleGroundQueue.html#a220dc1527cfe4c1f362b373b2cd3de3a", null ]
+];

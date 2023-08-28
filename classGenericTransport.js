@@ -1,0 +1,27 @@
+var classGenericTransport =
+[
+    [ "PlayerSet", "classGenericTransport.html#a24795467eac28f80f80da21279463cd2", null ],
+    [ "GenericTransport", "classGenericTransport.html#af8a917df2658f590775a479a6f1c7a4f", null ],
+    [ "AddPassenger", "classGenericTransport.html#ace46a11be636a17d2dea9fd4f64ee3d6", null ],
+    [ "AddPetToTransport", "classGenericTransport.html#a66bcfb8ea409970842a5eee3d8742644", null ],
+    [ "CalculatePassengerOffset", "classGenericTransport.html#a922c758b301666f7633915c57b25ef77", null ],
+    [ "CalculatePassengerOffset", "classGenericTransport.html#aba1f41f8636f5c7dcbfaeb447149e195", null ],
+    [ "CalculatePassengerOrientation", "classGenericTransport.html#a48986297c5fb19c85537f8959b7f878c", null ],
+    [ "CalculatePassengerPosition", "classGenericTransport.html#ae3e2a9d610c64020cc99143570aa6d09", null ],
+    [ "CalculatePassengerPosition", "classGenericTransport.html#a90df83470196f032e6bbdef2d80d32e6", null ],
+    [ "DespawnPassengers", "classGenericTransport.html#adc0b13e615ea567aabab33a50bb17792", null ],
+    [ "GetPassengers", "classGenericTransport.html#a849fcf542a31d06f9ca35c44ca94f774", null ],
+    [ "GetPathProgress", "classGenericTransport.html#a332b80ffddc61f631e0b4c9e32498cf1", null ],
+    [ "RemovePassenger", "classGenericTransport.html#a1a97ba9ec49d4c950eda0cee3723d288", null ],
+    [ "SetGoState", "classGenericTransport.html#aadffde463735fbf89a39edec829fb983", null ],
+    [ "SpawnPassengers", "classGenericTransport.html#afc4ba0c490ee9c2640e5f2011cb13733", null ],
+    [ "UpdatePassengerPosition", "classGenericTransport.html#a030e9285300d2e325d5a619a84ca0ec4", null ],
+    [ "UpdatePassengerPositions", "classGenericTransport.html#a1d93bfe3388d0fef8430571ecb394129", null ],
+    [ "UpdatePosition", "classGenericTransport.html#ac5d120e76bf0f5f7c7c4fb40353f549b", null ],
+    [ "m_movementStarted", "classGenericTransport.html#a03b79d54f62c2ca590db988a171a23a1", null ],
+    [ "m_passengers", "classGenericTransport.html#a1d051961c96e4ba9cc6ccf7d1dc26688", null ],
+    [ "m_passengerTeleportIterator", "classGenericTransport.html#acdee0b7e0c5f1079f64bd7335fc5df36", null ],
+    [ "m_pathProgress", "classGenericTransport.html#a487f0efcd595965636fb1f7882bb52fc", null ],
+    [ "m_staticPassengers", "classGenericTransport.html#a5cb9ae571abea6ba8ef99ace6d7713e7", null ],
+    [ "m_stopped", "classGenericTransport.html#aa56ad487a7453eaf22242334031f7a79", null ]
+];

@@ -1,0 +1,45 @@
+var DeathKnight_8cpp =
+[
+    [ "ScourgeStrike", "structScourgeStrike.html", "structScourgeStrike" ],
+    [ "RaiseDeadDk", "structRaiseDeadDk.html", "structRaiseDeadDk" ],
+    [ "DeathCoilDK", "structDeathCoilDK.html", "structDeathCoilDK" ],
+    [ "UnholyBlightDK", "structUnholyBlightDK.html", "structUnholyBlightDK" ],
+    [ "DeathRuneDK", "structDeathRuneDK.html", "structDeathRuneDK" ],
+    [ "Bloodworm", "structBloodworm.html", "structBloodworm" ],
+    [ "HealthLeechPassive", "structHealthLeechPassive.html", "structHealthLeechPassive" ],
+    [ "AntiMagicZone", "structAntiMagicZone.html", "structAntiMagicZone" ],
+    [ "CorpseExplosionDK", "structCorpseExplosionDK.html", "structCorpseExplosionDK" ],
+    [ "ExplodeGhoulCorpseExplosion", "structExplodeGhoulCorpseExplosion.html", "structExplodeGhoulCorpseExplosion" ],
+    [ "DeathKnightDisease", "structDeathKnightDisease.html", "structDeathKnightDisease" ],
+    [ "CryptFeverServerside", "structCryptFeverServerside.html", "structCryptFeverServerside" ],
+    [ "ArmyOfTheDead", "structArmyOfTheDead.html", "structArmyOfTheDead" ],
+    [ "ArmyOfTheDeadGhoul", "structArmyOfTheDeadGhoul.html", "structArmyOfTheDeadGhoul" ],
+    [ "SuddenDoom", "structSuddenDoom.html", "structSuddenDoom" ],
+    [ "WillOfTheNecropolis", "structWillOfTheNecropolis.html", "structWillOfTheNecropolis" ],
+    [ "DancingRuneWeapon", "structDancingRuneWeapon.html", "structDancingRuneWeapon" ],
+    [ "FakeAggroRadius8YD", "structFakeAggroRadius8YD.html", "structFakeAggroRadius8YD" ],
+    [ "AggroRadius8YD", "structAggroRadius8YD.html", "structAggroRadius8YD" ],
+    [ "SummonGargoyle", "structSummonGargoyle.html", "structSummonGargoyle" ],
+    [ "GargoyleDeathKnightAI", "structGargoyleDeathKnightAI.html", "structGargoyleDeathKnightAI" ],
+    [ "DancingRuneWeaponData", "DeathKnight_8cpp.html#a9a6982d87e702c817ad3e45a7d52aecf", [
+      [ "SPELL_COPY_WEAPON", "DeathKnight_8cpp.html#a9a6982d87e702c817ad3e45a7d52aecfa325c59c2404a5b823dbabf02d0078cb5", null ],
+      [ "SPELL_DANCING_RUNE_WEAPON_VISUAL", "DeathKnight_8cpp.html#a9a6982d87e702c817ad3e45a7d52aecfaa0b63f0ab69a83ced4f6dde4ad9a2af1", null ],
+      [ "SPELL_RUNE_WEAPON_MARK", "DeathKnight_8cpp.html#a9a6982d87e702c817ad3e45a7d52aecfa0e21b990e16c6f718a1a5bed3dd535fa", null ],
+      [ "SPELL_FAKE_AGGRO_RADIUS_8YD", "DeathKnight_8cpp.html#a9a6982d87e702c817ad3e45a7d52aecfaf4f72d2b4ee85b4ae436e96ffed99739", null ],
+      [ "SPELL_AGGRO_RADIUS_8YD", "DeathKnight_8cpp.html#a9a6982d87e702c817ad3e45a7d52aecfa7bba9aa942e209bafda5444dcfaa02a0", null ],
+      [ "SPELL_RUNE_WEAPON_SCALING_01", "DeathKnight_8cpp.html#a9a6982d87e702c817ad3e45a7d52aecfa17ccc3803d52f9aa40cc6cc91481d754", null ],
+      [ "SPELL_RUNE_WEAPON_SCALING_02", "DeathKnight_8cpp.html#a9a6982d87e702c817ad3e45a7d52aecfae9c4a300bfa2fdeea4e29f6475be1e04", null ],
+      [ "SPELL_DEATH_KNIGHT_PET_SCALING_03", "DeathKnight_8cpp.html#a9a6982d87e702c817ad3e45a7d52aecfab2c8052b5bdda80b7c5a8b28680ff73b", null ],
+      [ "NPC_DANCING_RUNE_WEAPON", "DeathKnight_8cpp.html#a9a6982d87e702c817ad3e45a7d52aecfae340acb97b5e5de5f2bd84625fc69a00", null ]
+    ] ],
+    [ "SummonGargoyleData", "DeathKnight_8cpp.html#ae3ce2e1756c5c1410115c9bc2d7c8c1d", [
+      [ "SPELL_RISEN_GHOUL_SPAWN_IN", "DeathKnight_8cpp.html#ae3ce2e1756c5c1410115c9bc2d7c8c1da33375cff9d33c541e077b05290f3a7d6", null ],
+      [ "SPELL_DEATH_KNIGHT_PET_SCALING_01", "DeathKnight_8cpp.html#ae3ce2e1756c5c1410115c9bc2d7c8c1dae30644935e01b131efee053e8f117f08", null ],
+      [ "SPELL_DEATH_KNIGHT_PET_SCALING_02", "DeathKnight_8cpp.html#ae3ce2e1756c5c1410115c9bc2d7c8c1daa8e06486d6f5438e167b765349cfed44", null ],
+      [ "SPELL_AVOIDANCE_PASSIVE", "DeathKnight_8cpp.html#ae3ce2e1756c5c1410115c9bc2d7c8c1da213dba890aa5e5223b987fb84d384714", null ],
+      [ "SPELL_TAUNT_GARGOYLE", "DeathKnight_8cpp.html#ae3ce2e1756c5c1410115c9bc2d7c8c1da74026e7cb97608ef78aad9036d2637c6", null ],
+      [ "NPC_GARGOYLE_DK", "DeathKnight_8cpp.html#ae3ce2e1756c5c1410115c9bc2d7c8c1da50eff3946804483d619c3f2829092ffc", null ],
+      [ "POINT_ABOVE_TARGET", "DeathKnight_8cpp.html#ae3ce2e1756c5c1410115c9bc2d7c8c1da9b9cb03641ecfcf821c8d48f3251b5cd", null ]
+    ] ],
+    [ "LoadDeathKnightScripts", "DeathKnight_8cpp.html#a577e61b5fa592cd172c70f40b692fd7d", null ]
+];

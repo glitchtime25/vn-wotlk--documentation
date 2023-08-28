@@ -1,0 +1,27 @@
+var structLFGQueueData =
+[
+    [ "LFGQueueData", "structLFGQueueData.html#a37f8251d5e411002513c3822eb642f9b", null ],
+    [ "GetDungeons", "structLFGQueueData.html#a36fc8c59acb71e764af08b50ab3fb78b", null ],
+    [ "GetJoinTime", "structLFGQueueData.html#ab2bcb81551347d9e403ea175a7e9f56c", null ],
+    [ "GetState", "structLFGQueueData.html#acd148fd3f5a9ec80a73abb666bf61276", null ],
+    [ "PopQueue", "structLFGQueueData.html#a4a1fb132581b6a293c54ba945d99ee17", null ],
+    [ "RecalculateRoles", "structLFGQueueData.html#ab44377f2a0b7aca74bae9f1f651b86d9", null ],
+    [ "SetState", "structLFGQueueData.html#a884d83ced2106f22f50f4a04111581fa", null ],
+    [ "UpdateRoleCheck", "structLFGQueueData.html#ac63b45a36849866284904d859d9966d9", null ],
+    [ "m_cancelTime", "structLFGQueueData.html#ac8023e7b8dac22e13b92c421cba8e137", null ],
+    [ "m_comment", "structLFGQueueData.html#aef3b72d92a9a33a3d1b6c23bb65fc0ee", null ],
+    [ "m_dungeons", "structLFGQueueData.html#a3bfa5f2c0f5bf11d9ca78bc7b16ddd53", null ],
+    [ "m_groupGuids", "structLFGQueueData.html#aed9a5c083d29b686625d625a6b0ff88f", null ],
+    [ "m_joinTime", "structLFGQueueData.html#aab37944a3b1387a7f529bf4e253aceb6", null ],
+    [ "m_leaderGuid", "structLFGQueueData.html#ae757df51ec3b831d197144018e44378d", null ],
+    [ "m_ownerGuid", "structLFGQueueData.html#ab94c11aafddb7e0fbf1f4dfde4b8272f", null ],
+    [ "m_playerInfoPerGuid", "structLFGQueueData.html#ac82885004c7b7672823e81e6bffd59f4", null ],
+    [ "m_queueTime", "structLFGQueueData.html#aba599601788020d4768fc77835c248f2", null ],
+    [ "m_raid", "structLFGQueueData.html#a7802d27001424b672faa7dae1f2743f0", null ],
+    [ "m_randomDungeonId", "structLFGQueueData.html#a08d254a2ac55375a5f04121f309c2eb1", null ],
+    [ "m_roleCheckState", "structLFGQueueData.html#a1313f2ad382e45c552b50bc198067d54", null ],
+    [ "m_roles", "structLFGQueueData.html#ac3ca21ba893b5e56c5fc87be6ca00ac0", null ],
+    [ "m_savedMap", "structLFGQueueData.html#afb879f0e578c89730860433c2e26ccb4", null ],
+    [ "m_state", "structLFGQueueData.html#ac2970374d31d6f66460501a95959c428", null ],
+    [ "m_team", "structLFGQueueData.html#aa9f4ccfc6e68cbb3e992500a108674f0", null ]
+];

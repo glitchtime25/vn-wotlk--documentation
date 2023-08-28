@@ -1,0 +1,28 @@
+var structnpc__commanderAI =
+[
+    [ "npc_commanderAI", "structnpc__commanderAI.html#aaa0d8f3e7640a612efa8f040a8531945", null ],
+    [ "DespawnDefenders", "structnpc__commanderAI.html#a4a662d5ea9199b2491b2dca09f12c043", null ],
+    [ "DespawnDragonmaw", "structnpc__commanderAI.html#a921616e3957219c6adae66e2c62fef0c", null ],
+    [ "ExecuteAction", "structnpc__commanderAI.html#a91bf0ba628df10bb849330d98c3f393d", null ],
+    [ "FailEvent", "structnpc__commanderAI.html#aeddfab4d33bb2773f2f1e0207c0c647b", null ],
+    [ "FinishedWaypointMovement", "structnpc__commanderAI.html#af64877222cce54625a7e402ea2600d60", null ],
+    [ "GetAIInformation", "structnpc__commanderAI.html#ac5bf229768d7af25f4e77be0fe500cf0", null ],
+    [ "GetInitialCombatActionTimer", "structnpc__commanderAI.html#ac91d8700fb1eae9c8e8fa383f9f1fd91", null ],
+    [ "GetRepeatingCombatActionTimer", "structnpc__commanderAI.html#a86504206a61fa4c773e7322cbab93dc5", null ],
+    [ "JustDied", "structnpc__commanderAI.html#ad33d13c5d3cfb9ac25f37c97655a7834", null ],
+    [ "MovementInform", "structnpc__commanderAI.html#a4a0b75a626ee8d717fb53f8287da66f9", null ],
+    [ "ResetEvent", "structnpc__commanderAI.html#ad0267726752ba6fef0afbff628665d4b", null ],
+    [ "SpawnDefenders", "structnpc__commanderAI.html#a3166445441da2625bea55e198ffcc86c", null ],
+    [ "SpawnDragonmaw", "structnpc__commanderAI.html#a47c2d31fc15459c2599d32d3d6e1da8c", null ],
+    [ "SpawnSpecificDragonmaw", "structnpc__commanderAI.html#a6a367e12a0e331b10de48691ba2b41ae", null ],
+    [ "StartAttackingEvent", "structnpc__commanderAI.html#a0080493988daa6b96cf994042a70bab3", null ],
+    [ "StartEvent", "structnpc__commanderAI.html#abb5a0cdd9b5304297fb2080b19bd0c95", null ],
+    [ "SummonedCreatureJustDied", "structnpc__commanderAI.html#ab22b7172aa8991d1bdbeb0acf4127524", null ],
+    [ "UpdateAI", "structnpc__commanderAI.html#a8b7b3589f84f0e473d71fa95e8e01a71", null ],
+    [ "WinEvent", "structnpc__commanderAI.html#ac8c1a9e2e1a7868d9b19c0bf27341b3c", null ],
+    [ "m_commanderId", "structnpc__commanderAI.html#a1167f151db4e6e704089174c11fe4cc4", null ],
+    [ "m_defenderSpawns", "structnpc__commanderAI.html#ae186fe79bd3d4ffb761acccb59384a22", null ],
+    [ "m_dragonmawSpawns", "structnpc__commanderAI.html#a57cee3a517ac3d08a270d1663b33ae1b", null ],
+    [ "m_killCounter", "structnpc__commanderAI.html#a1e65ecff507199879f147f645d049514", null ],
+    [ "m_startingPlayer", "structnpc__commanderAI.html#adbe6bb9a9e56e64a3411ba35d146c07c", null ]
+];

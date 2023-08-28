@@ -1,0 +1,95 @@
+var boss__illidan_8cpp =
+[
+    [ "Locations", "structLocations.html", "structLocations" ],
+    [ "boss_illidan_stormrageAI", "structboss__illidan__stormrageAI.html", "structboss__illidan__stormrageAI" ],
+    [ "npc_akama_illidanAI", "structnpc__akama__illidanAI.html", "structnpc__akama__illidanAI" ],
+    [ "boss_maievAI", "structboss__maievAI.html", "structboss__maievAI" ],
+    [ "npc_cage_trap_triggerAI", "structnpc__cage__trap__triggerAI.html", "structnpc__cage__trap__triggerAI" ],
+    [ "npc_flame_of_azzinothAI", "structnpc__flame__of__azzinothAI.html", "structnpc__flame__of__azzinothAI" ],
+    [ "npc_shadow_demonAI", "structnpc__shadow__demonAI.html", "structnpc__shadow__demonAI" ],
+    [ "npc_blade_of_azzinothAI", "structnpc__blade__of__azzinothAI.html", "structnpc__blade__of__azzinothAI" ],
+    [ "npc_parasitic_shadowfiendAI", "structnpc__parasitic__shadowfiendAI.html", "structnpc__parasitic__shadowfiendAI" ],
+    [ "ParasiticShadowfiendAura", "structParasiticShadowfiendAura.html", "structParasiticShadowfiendAura" ],
+    [ "ShadowPrison", "structShadowPrison.html", "structShadowPrison" ],
+    [ "AkamaActions", "boss__illidan_8cpp.html#a3604c4cfbf310c7c31f3c7a498c14841", [
+      [ "AKAMA_ACTION_HEAL", "boss__illidan_8cpp.html#a3604c4cfbf310c7c31f3c7a498c14841a6a10aadd8b8e43df1b0f0988b577dbe8", null ],
+      [ "AKAMA_ACTION_CHAIN_LIGHTNING", "boss__illidan_8cpp.html#a3604c4cfbf310c7c31f3c7a498c14841a84d1520d85ab93ebfed9cb1ab5aee93b", null ],
+      [ "AKAMA_ACTION_MAX", "boss__illidan_8cpp.html#a3604c4cfbf310c7c31f3c7a498c14841a1bc7632b00ddbde92bad2a4d5f08b3ba", null ],
+      [ "AKAMA_SUMMON_ILLIDARI", "boss__illidan_8cpp.html#a3604c4cfbf310c7c31f3c7a498c14841a4f1eb796331cec63f0559fb3de472150", null ],
+      [ "AKAMA_OUTRO_DELAY", "boss__illidan_8cpp.html#a3604c4cfbf310c7c31f3c7a498c14841ac755bb051d676a2771316790c79b60cc", null ],
+      [ "AKAMA_OUTRO_ACTIONS", "boss__illidan_8cpp.html#a3604c4cfbf310c7c31f3c7a498c14841a75e74bb214e915de1d7b1a2450494f8d", null ],
+      [ "AKAMA_ACTION_LOW_HEALTH", "boss__shade__of__akama_8cpp.html#a3604c4cfbf310c7c31f3c7a498c14841aec4daacf0bba1ef8f9b69caf51bf8d3d", null ],
+      [ "AKAMA_ACTION_DESTRUCTIVE_POISON", "boss__shade__of__akama_8cpp.html#a3604c4cfbf310c7c31f3c7a498c14841a8375f76ba248e0589625968800799ae0", null ],
+      [ "AKAMA_ACTION_CHAIN_LIGHTNING", "boss__shade__of__akama_8cpp.html#a3604c4cfbf310c7c31f3c7a498c14841a84d1520d85ab93ebfed9cb1ab5aee93b", null ],
+      [ "AKAMA_ACTION_MAX", "boss__shade__of__akama_8cpp.html#a3604c4cfbf310c7c31f3c7a498c14841a1bc7632b00ddbde92bad2a4d5f08b3ba", null ]
+    ] ],
+    [ "AkamaStages", "boss__illidan_8cpp.html#a347c87ac29a48de53fd9c6e387e506f0", [
+      [ "AKAMA_STAGE_COUNCIL", "boss__illidan_8cpp.html#a347c87ac29a48de53fd9c6e387e506f0a766595b74f65145fa050790d499368ee", null ],
+      [ "AKAMA_STAGE_ILLIDAN", "boss__illidan_8cpp.html#a347c87ac29a48de53fd9c6e387e506f0a14ad250e3811449b0cc179bccbf4258c", null ]
+    ] ],
+    [ "FlameActions", "boss__illidan_8cpp.html#ae05d32ad4af545db35c38f9b568c74a6", [
+      [ "FLAME_ACTION_WRATH_CHECK", "boss__illidan_8cpp.html#ae05d32ad4af545db35c38f9b568c74a6aca7f4d98852ee4ecb0faa0050ddd5a21", null ],
+      [ "FLAME_ACTION_FLAME_BLAST", "boss__illidan_8cpp.html#ae05d32ad4af545db35c38f9b568c74a6a704c958ca26e892a81091ce82f178c37", null ],
+      [ "FLAME_ACTION_SUMMON_BLAZE", "boss__illidan_8cpp.html#ae05d32ad4af545db35c38f9b568c74a6afea83393a19f77f56694886875b12ce6", null ],
+      [ "FLAME_ACTION_CHARGE", "boss__illidan_8cpp.html#ae05d32ad4af545db35c38f9b568c74a6a3be39c27a48cf39d54352710540ef4f0", null ],
+      [ "FLAME_ACTION_MAX", "boss__illidan_8cpp.html#ae05d32ad4af545db35c38f9b568c74a6a927eb3f27da81ba2bb0d51dfa46a42bb", null ],
+      [ "FLAME_ACTION_ATTACK", "boss__illidan_8cpp.html#ae05d32ad4af545db35c38f9b568c74a6acc201cd9c57c5862b3a9f240740cca78", null ]
+    ] ],
+    [ "IllidanActions", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903", [
+      [ "ILLIDAN_ACTION_BERSERK", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a520422561bb3164798a69eee820b5222", null ],
+      [ "ILLIDAN_ACTION_AKAMA", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a827d39663eb9d7add9bd7b6034e21316", null ],
+      [ "ILLIDAN_ACTION_PHASE_2", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903aeb77c73b413087c1ef0a87536d790d39", null ],
+      [ "ILLIDAN_ACTION_PHASE_3", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a3dbb96a75f38e47399fac7bb1f07898e", null ],
+      [ "ILLIDAN_ACTION_PHASE_5", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a600fa3f627d61e793bcb29c775a6d7a6", null ],
+      [ "ILLIDAN_ACTION_TRANSFORM", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a6274b8c7816ec28bed170e96978d2536", null ],
+      [ "ILLIDAN_ACTION_TRAP", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a5c8c98a21986b2d1c07a52a801e07276", null ],
+      [ "ILLIDAN_ACTION_ENRAGE", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903aae3d6c752cb127829820dc227cf6c128", null ],
+      [ "ILLIDAN_ACTION_FLAME_BURST", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a893569a9b0a506c18f0ffc455e0b2167", null ],
+      [ "ILLIDAN_ACTION_SHADOW_DEMON", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a8629fcb8cf4235f6d59955b20e9b68f9", null ],
+      [ "ILLIDAN_ACTION_SHADOW_BLAST", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903aab3214f1c7beec9a4e09d377899cbfea", null ],
+      [ "ILLIDAN_ACTION_AGONISING_FLAMES", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903ab813a1547bb864dc83d25421ade0a9e5", null ],
+      [ "ILLIDAN_ACTION_EYE_BLAST", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a40edfd354024ff55cadbd2f54be6cc35", null ],
+      [ "ILLIDAN_ACTION_DARK_BARRAGE", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a4b0b1ef8feb2d31a155d4b97117c2b17", null ],
+      [ "ILLIDAN_ACTION_FIREBALL", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a83234b187777b2ecae27172876cd37ca", null ],
+      [ "ILLIDAN_ACTION_SHADOW_FIEND", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903aa76179906c8f6bf40e0b2155df385556", null ],
+      [ "ILLIDAN_ACTION_FLAME_CRASH", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a3a9382491973dd08cbb043aa2933268b", null ],
+      [ "ILLIDAN_ACTION_SHEAR", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a85a6a77ab0d6fc6b93168a58e5f045bd", null ],
+      [ "ILLIDAN_ACTION_DRAW_SOUL", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903adf80cd3a9f9721ec7df770c8dca66c92", null ],
+      [ "ILLIDAN_ACTIONS_MAX", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903a136a98fcea1608b714a8eb760693cfe9", null ],
+      [ "ILLIDAN_ACTION_PHASE_TRANSITION", "boss__illidan_8cpp.html#a5aca06a2fc4ef9d715acca0d24022903acbee260958ad29ebd7b14eb9ea7e1498", null ]
+    ] ],
+    [ "IllidanPhase", "boss__illidan_8cpp.html#ab01fcac975b5887986e8c82c12b1f6b2", [
+      [ "PHASE_1_AKAMA", "boss__illidan_8cpp.html#ab01fcac975b5887986e8c82c12b1f6b2a33fa82dde60d3b22841718c1c6b0d23a", null ],
+      [ "PHASE_2_FLIGHT", "boss__illidan_8cpp.html#ab01fcac975b5887986e8c82c12b1f6b2a99aea5900b311101e6eda3e12af67ddf", null ],
+      [ "PHASE_3_NORMAL", "boss__illidan_8cpp.html#ab01fcac975b5887986e8c82c12b1f6b2a9fd13d70d2441307b6806ab8c6209259", null ],
+      [ "PHASE_4_DEMON", "boss__illidan_8cpp.html#ab01fcac975b5887986e8c82c12b1f6b2a2de84c2270ed40a68a61a0bb2375ec2b", null ],
+      [ "PHASE_5_MAIEV", "boss__illidan_8cpp.html#ab01fcac975b5887986e8c82c12b1f6b2ab0ea88fb48af42a31b98c9d964b6cd07", null ],
+      [ "PHASE_TRANSITION", "boss__illidan_8cpp.html#ab01fcac975b5887986e8c82c12b1f6b2a806abcaac7257edd7c5b3645c3599659", null ]
+    ] ],
+    [ "MaievActions", "boss__illidan_8cpp.html#a7eb54bf0fb99bc93ab3afe36d58b141c", [
+      [ "MAIEV_ACTION_SHADOW_STRIKE", "boss__illidan_8cpp.html#a7eb54bf0fb99bc93ab3afe36d58b141caec66a095cbfda95b8b3208d2fefa6341", null ],
+      [ "MAIEV_ACTION_THROW_DAGGER", "boss__illidan_8cpp.html#a7eb54bf0fb99bc93ab3afe36d58b141caab3fda82b52e1c497d0355d6baf41b5f", null ],
+      [ "MAIEV_ACTION_TAUNT", "boss__illidan_8cpp.html#a7eb54bf0fb99bc93ab3afe36d58b141caa648e031afd2db09f14a7dc7c2c42df1", null ],
+      [ "MAIEV_ACTION_MAX", "boss__illidan_8cpp.html#a7eb54bf0fb99bc93ab3afe36d58b141cad82421995c74105011bdf74b81701070", null ],
+      [ "MAIEV_ACTION_TRAP", "boss__illidan_8cpp.html#a7eb54bf0fb99bc93ab3afe36d58b141ca44c85e1946beb645029ca230a7a1646d", null ]
+    ] ],
+    [ "PhaseTransition", "boss__illidan_8cpp.html#ae2f7843a92a94948cdcb21ca2902931e", [
+      [ "PHASETRANSITION_NONE", "boss__illidan_8cpp.html#ae2f7843a92a94948cdcb21ca2902931ea597a6f10c1f5a352d00bd55e1d96d276", null ],
+      [ "PHASETRANSITION_LIFTOFF", "boss__illidan_8cpp.html#ae2f7843a92a94948cdcb21ca2902931eac1618ea8bc8938b5d646fe7532c2d7f2", null ],
+      [ "PHASETRANSITION_LAND", "boss__illidan_8cpp.html#ae2f7843a92a94948cdcb21ca2902931ea36045714a69e6ee904af18dffeb7ed57", null ],
+      [ "PHASETRANSITION_MAIEV", "boss__illidan_8cpp.html#ae2f7843a92a94948cdcb21ca2902931eab09ec065753597dd7e4d5dd1c920becc", null ]
+    ] ],
+    [ "AddSC_boss_illidan", "boss__illidan_8cpp.html#ac83669f2b02a90b0d19838cd7161d54a", null ],
+    [ "GossipHello_npc_akama_illidan", "boss__illidan_8cpp.html#ab5795af40834017f9a5849c53239c89f", null ],
+    [ "GossipSelect_npc_akama_illidan", "boss__illidan_8cpp.html#a7ba2ff8eaaa3b6cc3743f331b4d3aa6a", null ],
+    [ "GOUse_go_cage_trap", "boss__illidan_8cpp.html#a484d9bf1a160094f56a78235b4dfccd0", null ],
+    [ "aCagedSummonSpells", "boss__illidan_8cpp.html#ae6b95fac4d4dfb904973fd7304649c25", null ],
+    [ "aCagedVisualSpells", "boss__illidan_8cpp.html#abebc329ccd547a8a3d0f92644306cc7a", null ],
+    [ "aCenterLoc", "boss__illidan_8cpp.html#ade5dbc934edac5a966e68100fd9ec468", null ],
+    [ "aEpilogueDialogue", "boss__illidan_8cpp.html#a2b43e6fd2ea74cc664ba4b33c627e38b", null ],
+    [ "aEventDialogue", "boss__illidan_8cpp.html#af31da460af2f158da5493e7674f22d4c", null ],
+    [ "aEyeBlastPos", "boss__illidan_8cpp.html#a2cb1ef90f0335286ea625b5ee72985ad", null ],
+    [ "aIllidariElitesPos", "boss__illidan_8cpp.html#addc156316c54572bcc7827aca6576149", null ],
+    [ "aIntroDialogue", "boss__illidan_8cpp.html#a61a4cfc7db2393f713388e73716eb369", null ],
+    [ "illidanFlightPos", "boss__illidan_8cpp.html#afbb9d66dbba51df694a08787c050f1a9", null ]
+];

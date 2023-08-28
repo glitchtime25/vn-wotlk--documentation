@@ -1,0 +1,28 @@
+var classinstance__ruins__of__ahnqiraj =
+[
+    [ "instance_ruins_of_ahnqiraj", "classinstance__ruins__of__ahnqiraj.html#a2f7af2de3cebc7db5d2feabfdf71d629", null ],
+    [ "~instance_ruins_of_ahnqiraj", "classinstance__ruins__of__ahnqiraj.html#acf359c8a182d263af3a432cf5e0a63fa", null ],
+    [ "DoSendNextArmyWave", "classinstance__ruins__of__ahnqiraj.html#af81d3c0d084be884380d8ae4f870c1fe", null ],
+    [ "DoSortArmyWaves", "classinstance__ruins__of__ahnqiraj.html#a000b1c4147c3ff7a63bbececf41cdfee", null ],
+    [ "DoSpawnAndorovIfCan", "classinstance__ruins__of__ahnqiraj.html#a8beaed9716328a12a750ac14318b6291", null ],
+    [ "GetData", "classinstance__ruins__of__ahnqiraj.html#a538d09b15fd8bc9123e8d4f449b48d03", null ],
+    [ "GetKaldoreiGuidList", "classinstance__ruins__of__ahnqiraj.html#a700735b082b92fd953b9be0f8b854b1a", null ],
+    [ "Initialize", "classinstance__ruins__of__ahnqiraj.html#a0f86152cf5e572f4b321fe3b0532ce10", null ],
+    [ "Load", "classinstance__ruins__of__ahnqiraj.html#a58430e5e2ab1676ec0d2426a0db81e7d", null ],
+    [ "OnCreatureCreate", "classinstance__ruins__of__ahnqiraj.html#a744cce74b807d106c890df76749cd532", null ],
+    [ "OnCreatureDeath", "classinstance__ruins__of__ahnqiraj.html#ad55fafffa7db3e67c0aa5b7f07e868e7", null ],
+    [ "OnCreatureEnterCombat", "classinstance__ruins__of__ahnqiraj.html#a6660da74cbd1e5a1ef397871266c165e", null ],
+    [ "OnCreatureEvade", "classinstance__ruins__of__ahnqiraj.html#ac621f5c6a7025d1bd5c91c4270f32295", null ],
+    [ "OnCreatureRespawn", "classinstance__ruins__of__ahnqiraj.html#a24c3d6d2d9e0bb8f1e5d5fe1a26cf2d1", null ],
+    [ "OnObjectCreate", "classinstance__ruins__of__ahnqiraj.html#acd01932ba2c9e5f095d4ec058466b2d1", null ],
+    [ "OnPlayerEnter", "classinstance__ruins__of__ahnqiraj.html#a7e0729826756486313e00cef29207f2d", null ],
+    [ "Save", "classinstance__ruins__of__ahnqiraj.html#a360882638d39d5066d288b9120882b02", null ],
+    [ "SetData", "classinstance__ruins__of__ahnqiraj.html#a63e356c940a87cb9a4c465499fafee00", null ],
+    [ "Update", "classinstance__ruins__of__ahnqiraj.html#a7497ee2cbf8d8bf2515daa9bb5d0f3e0", null ],
+    [ "m_auiEncounter", "classinstance__ruins__of__ahnqiraj.html#afd18f6b71497f20d75c963ae6bbaa0c0", null ],
+    [ "m_lKaldoreiGuidList", "classinstance__ruins__of__ahnqiraj.html#acf10a34652656f4228c306bb78356dfb", null ],
+    [ "m_sArmyWavesGuids", "classinstance__ruins__of__ahnqiraj.html#af5edd1638d051b228c249e594b738772", null ],
+    [ "m_strInstData", "classinstance__ruins__of__ahnqiraj.html#a1aa0c2d5f7424cad4be26887b5b9b59a", null ],
+    [ "m_uiArmyDelayTimer", "classinstance__ruins__of__ahnqiraj.html#adf057f54369ba7442caab135828d267d", null ],
+    [ "m_uiCurrentArmyWave", "classinstance__ruins__of__ahnqiraj.html#a25c1788c13f52a0f14aefadd5c778d7b", null ]
+];

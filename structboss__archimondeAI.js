@@ -1,0 +1,26 @@
+var structboss__archimondeAI =
+[
+    [ "boss_archimondeAI", "structboss__archimondeAI.html#aad047c3dd492b36e87f9f3d8f161fe6f", null ],
+    [ "Aggro", "structboss__archimondeAI.html#a15cb341b39a15dd80ce868dfae0f1f20", null ],
+    [ "CheckLeash", "structboss__archimondeAI.html#a88b4004af2251363ce277f5502638906", null ],
+    [ "EnterEvadeMode", "structboss__archimondeAI.html#a984a5aaec3ee4c010c9d2b5b613d4bd1", null ],
+    [ "ExecuteAction", "structboss__archimondeAI.html#a9ec12a49de3958f0ec5b4761b0123c0b", null ],
+    [ "GetSubsequentActionTimer", "structboss__archimondeAI.html#a31e224970d087f398b877576efeb4b66", null ],
+    [ "HandleOutro", "structboss__archimondeAI.html#ae59f1f3819e7517a92292f201d6ede13", null ],
+    [ "JustRespawned", "structboss__archimondeAI.html#a7755462339aae9e4fa6c387f04d25e75", null ],
+    [ "JustSummoned", "structboss__archimondeAI.html#ac9f41c0f78a1e08bc3e63a0240a4af94", null ],
+    [ "MovementInform", "structboss__archimondeAI.html#af1e1030f1c24b848e2e6782b986b5506", null ],
+    [ "OnSpellCooldownAdded", "structboss__archimondeAI.html#a236b81b03f0d0010f19ba57775f5cf54", null ],
+    [ "Reset", "structboss__archimondeAI.html#a50ffff61645baa91d6b46a4d90ce5548", null ],
+    [ "UpdateAI", "structboss__archimondeAI.html#a5b1f9c4a88b295f931365348adb96158", null ],
+    [ "m_doomfireTargeting", "structboss__archimondeAI.html#a1024fa05b1a667c174519e72148e4a44", null ],
+    [ "m_drainNordrassilTimer", "structboss__archimondeAI.html#a36dd3355de3307e8b8fa6ef1f834fa3d", null ],
+    [ "m_hasIntro", "structboss__archimondeAI.html#ac885e54b495d37405c4f7cb20a22157a", null ],
+    [ "m_instance", "structboss__archimondeAI.html#a86bae9d9649451e722edaa0e390cbccf", null ],
+    [ "m_leashCheckTimer", "structboss__archimondeAI.html#a0574b4a1c10d91435336b8ec3b8d6a7b", null ],
+    [ "m_outroTimer", "structboss__archimondeAI.html#a9953e693982c01082ba6acce363a318f", null ],
+    [ "m_phase", "structboss__archimondeAI.html#a71a99db534bcd5abeb3a375d1a11151f", null ],
+    [ "m_soulChargeId", "structboss__archimondeAI.html#abc5323c43326e91b3be10c51f87afb26", null ],
+    [ "m_stageCounter", "structboss__archimondeAI.html#a4f8dd6a59f15730d74250b0f1e5f36c1", null ],
+    [ "m_summonWispTimer", "structboss__archimondeAI.html#a3f5c3877b87d234415943499359bd76d", null ]
+];

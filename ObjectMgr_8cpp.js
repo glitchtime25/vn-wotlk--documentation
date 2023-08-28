@@ -1,0 +1,37 @@
+var ObjectMgr_8cpp =
+[
+    [ "SQLCreatureLoader", "structSQLCreatureLoader.html", "structSQLCreatureLoader" ],
+    [ "SQLItemLoader", "structSQLItemLoader.html", "structSQLItemLoader" ],
+    [ "SQLInstanceLoader", "structSQLInstanceLoader.html", "structSQLInstanceLoader" ],
+    [ "SQLWorldLoader", "structSQLWorldLoader.html", "structSQLWorldLoader" ],
+    [ "SQLGameObjectLoader", "structSQLGameObjectLoader.html", "structSQLGameObjectLoader" ],
+    [ "SQLSpellLoader", "structSQLSpellLoader.html", "structSQLSpellLoader" ],
+    [ "LanguageType", "ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34", [
+      [ "LT_BASIC_LATIN", "ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34ab693cfd22bb1894887b280b4d51ea3f5", null ],
+      [ "LT_EXTENDEN_LATIN", "ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34a42315588f1a9e4d3e29a1b49e7d973b8", null ],
+      [ "LT_CYRILLIC", "ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34aef4a14b5eb73e84982c14ba00e70b402", null ],
+      [ "LT_EAST_ASIA", "ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34aa059d83464c94afd9e5a7257238efa40", null ],
+      [ "LT_ANY", "ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34a400f6aeeb5f21442c121cccfda55689c", null ]
+    ] ],
+    [ "_DoStringError", "ObjectMgr_8cpp.html#a5019a468f8cb5e9680212681822318ac", null ],
+    [ "CheckAndFixGOCaptureMinTime", "ObjectMgr_8cpp.html#a2af2491d5a51dd56a337470626dd7b4e", null ],
+    [ "CheckAndFixGOChairHeightId", "ObjectMgr_8cpp.html#abdb0bd686e3112adae36a7e493b06ce6", null ],
+    [ "CheckGOConsumable", "ObjectMgr_8cpp.html#aa7891afbc257bf3ce8d9f9a2eb758aa0", null ],
+    [ "CheckGOLinkedTrapId", "ObjectMgr_8cpp.html#a071ebdbdcd6b0310f2b38561e981b02d", null ],
+    [ "CheckGOLockId", "ObjectMgr_8cpp.html#a4ea2f44b44435a08b36a352a97eb3af3", null ],
+    [ "CheckGONoDamageImmuneId", "ObjectMgr_8cpp.html#aa1b3b8c9ed0755a49e01838015953828", null ],
+    [ "CheckGOSpellId", "ObjectMgr_8cpp.html#aa139d1629f36228b4bae5e14542aaf38", null ],
+    [ "DoDisplayText", "ObjectMgr_8cpp.html#ae1a79ae1c6ebf9f7e1e119b94aedceb4", null ],
+    [ "GetCreatureTemplateStore", "ObjectMgr_8cpp.html#a1811911cea65c2467571e3a28d4c61a5", null ],
+    [ "GetLanguageDescByID", "ObjectMgr_8cpp.html#a51d1ac6750dc1fd2065d3f0adc0b27b9", null ],
+    [ "GetMangosStringData", "ObjectMgr_8cpp.html#a4e162768499eaf0d2d751823657932ed", null ],
+    [ "GetQuestTemplateStore", "ObjectMgr_8cpp.html#a565f73c6d15b4c1a7882366ca4414ca7", null ],
+    [ "GetRealmLanguageType", "ObjectMgr_8cpp.html#a1d95dafadc9b3a7d7bc91fa7f188d464", null ],
+    [ "GetSkillRangeType", "ObjectMgr_8cpp.html#a6e7e429f8e46e24af1b1cd178226ac01", null ],
+    [ "INSTANTIATE_SINGLETON_1", "ObjectMgr_8cpp.html#ad4df4d29cc90ac954bb1e39143b919a2", null ],
+    [ "isValidString", "ObjectMgr_8cpp.html#a4b94fc79dc06883175018bcc87b74812", null ],
+    [ "LoadMangosStrings", "ObjectMgr_8cpp.html#a243d6d8a7cf6497896b5fbed7eff8293", null ],
+    [ "normalizePlayerName", "ObjectMgr_8cpp.html#ae3678f78a873175a8a779937c1aa599a", null ],
+    [ "lang_description", "ObjectMgr_8cpp.html#a04765c27af649777907160e1147fb8fa", null ],
+    [ "SERVER_SIDE_SPELL", "ObjectMgr_8cpp.html#a9ee6069f26cf0768c981b27f866df3f7", null ]
+];

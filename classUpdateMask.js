@@ -1,0 +1,25 @@
+var classUpdateMask =
+[
+    [ "UpdateMask", "classUpdateMask.html#a84456333046da3f36f726ff54a7c13c8", null ],
+    [ "UpdateMask", "classUpdateMask.html#aa879aef403e09d0d647c77674376ee74", null ],
+    [ "~UpdateMask", "classUpdateMask.html#a986a2b81e0b4f86486ccc455ff6ad79a", null ],
+    [ "Clear", "classUpdateMask.html#a39cffd3822966011d83d7241ee3c5548", null ],
+    [ "GetBit", "classUpdateMask.html#a69f7c72de49699d5730f3a10d55f30e2", null ],
+    [ "GetBlockCount", "classUpdateMask.html#a5c0d2086346e4522e422add9622e1117", null ],
+    [ "GetCount", "classUpdateMask.html#a1f6e2b930533b303c173166bf3588613", null ],
+    [ "GetLength", "classUpdateMask.html#a1800aed581f88163affaf0c3abc2370b", null ],
+    [ "GetMask", "classUpdateMask.html#a3fefeb4026d6a5635d7b7dc6cfff8582", null ],
+    [ "HasData", "classUpdateMask.html#abd05bdfe54f397fb1336286b7f332508", null ],
+    [ "operator&", "classUpdateMask.html#ad677b602f8313e4afe73afb078040c72", null ],
+    [ "operator&=", "classUpdateMask.html#a4655e3c2b23b91e01e72ef147f21ad4c", null ],
+    [ "operator=", "classUpdateMask.html#a4afcc15c7b2f6691baaf651127df2e02", null ],
+    [ "operator|", "classUpdateMask.html#af61378910435b14b41ef86e2382cd10f", null ],
+    [ "operator|=", "classUpdateMask.html#ab666fd4ff64eddfc498f89641a0163a9", null ],
+    [ "SetBit", "classUpdateMask.html#af3390cfa31c39629968a871be2c763fc", null ],
+    [ "SetCount", "classUpdateMask.html#ad6ec4d5a2b6a85a2ec72b559efbdeb35", null ],
+    [ "UnsetBit", "classUpdateMask.html#aaac0596975c08d04736996c608eff29f", null ],
+    [ "mBlocks", "classUpdateMask.html#a31c26bcf9be38548a677155122ae7f5f", null ],
+    [ "mCount", "classUpdateMask.html#a5124588e23a5abd0b0d1897b71036496", null ],
+    [ "mHasData", "classUpdateMask.html#a4149217de732fd70b350db0021f25877", null ],
+    [ "mUpdateMask", "classUpdateMask.html#a258e9bb9f5c67c2e60ba3b49d72b5828", null ]
+];
